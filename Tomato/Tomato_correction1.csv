@@ -1,0 +1,588 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,20/02/2020,500,700,600
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,21/02/2020,500,600,550
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,22/02/2020,600,700,650
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,23/02/2020,600,700,650
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,24/02/2020,500,600,550
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,25/02/2020,300,350,300
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,26/02/2020,500,800,600
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,27/02/2020,500,600,550
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,28/02/2020,400,500,450
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,29/02/2020,300,400,350
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,02/03/2020,300,400,350
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,03/03/2020,300,450,350
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,04/03/2020,300,400,350
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,05/03/2020,200,300,250
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,06/03/2020,250,300,250
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,07/03/2020,250,300,250
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,08/03/2020,250,300,250
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,09/03/2020,200,300,250
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,12/03/2020,400,600,500
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,13/03/2020,500,600,550
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,14/03/2020,500,600,550
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,15/03/2020,500,600,550
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,16/03/2020,600,650,600
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,17/03/2020,500,600,550
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,18/03/2020,500,600,550
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,19/03/2020,500,600,550
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,20/03/2020,800,1200,1000
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,21/03/2020,600,800,700
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,31/03/2020,1000,1100,1000
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,02/04/2020,400,600,500
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,03/04/2020,300,400,300
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,04/04/2020,400,600,500
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,06/04/2020,500,700,600
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,07/04/2020,600,800,700
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,08/04/2020,600,800,700
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,09/04/2020,600,800,700
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,10/04/2020,500,600,550
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,11/04/2020,600,800,700
+Chattisgarh,Bilaspur,Tiphra,Tomato,Other,15/04/2020,600,800,700
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,20/02/2020,200,750,450
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,22/02/2020,300,700,600
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,24/02/2020,300,700,600
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,25/02/2020,200,600,500
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,26/02/2020,100,600,450
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,27/02/2020,150,400,350
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,28/02/2020,200,600,450
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,29/02/2020,200,500,400
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,03/03/2020,300,600,500
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,04/03/2020,200,600,450
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,05/03/2020,100,400,350
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,06/03/2020,150,500,350
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,07/03/2020,150,400,325
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,09/03/2020,400,700,600
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,11/03/2020,150,600,450
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,13/03/2020,200,700,550
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,14/03/2020,200,600,450
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,16/03/2020,200,500,450
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,17/03/2020,200,500,400
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,18/03/2020,200,500,400
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,19/03/2020,200,500,400
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,20/03/2020,250,750,600
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,21/03/2020,400,1000,800
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,26/03/2020,500,1100,900
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,27/03/2020,300,1000,750
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,28/03/2020,300,700,550
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,30/03/2020,200,800,600
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,31/03/2020,300,800,550
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,02/04/2020,250,800,575
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,03/04/2020,300,700,550
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,07/04/2020,350,800,625
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,08/04/2020,400,750,625
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,09/04/2020,500,800,700
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,10/04/2020,400,800,650
+Gujarat,Ahmedabad,Ahmedabad,Tomato,Other,11/04/2020,500,900,750
+Haryana,Ambala,Barara,Tomato,Other,20/02/2020,1200,1400,1200
+Haryana,Ambala,Barara,Tomato,Other,21/02/2020,1200,1400,1200
+Haryana,Ambala,Barara,Tomato,Other,22/02/2020,1200,1400,1200
+Haryana,Ambala,Barara,Tomato,Other,23/02/2020,1200,1400,1200
+Haryana,Ambala,Barara,Tomato,Other,24/02/2020,1200,1400,1200
+Haryana,Ambala,Barara,Tomato,Other,25/02/2020,1200,1400,1200
+Haryana,Ambala,Barara,Tomato,Other,26/02/2020,1000,1500,1000
+Haryana,Ambala,Barara,Tomato,Other,27/02/2020,1200,1400,1200
+Haryana,Ambala,Barara,Tomato,Other,01/03/2020,1200,1400,1200
+Haryana,Ambala,Barara,Tomato,Other,02/03/2020,800,1000,800
+Haryana,Ambala,Barara,Tomato,Other,03/03/2020,800,1000,800
+Haryana,Ambala,Barara,Tomato,Other,04/03/2020,800,1100,800
+Haryana,Ambala,Barara,Tomato,Other,06/03/2020,800,1100,800
+Haryana,Ambala,Barara,Tomato,Other,07/03/2020,900,1000,900
+Haryana,Ambala,Barara,Tomato,Other,09/03/2020,900,1000,900
+Haryana,Ambala,Barara,Tomato,Other,10/03/2020,900,1000,900
+Haryana,Ambala,Barara,Tomato,Other,11/03/2020,900,1000,900
+Haryana,Ambala,Barara,Tomato,Other,13/03/2020,900,1000,900
+Haryana,Ambala,Barara,Tomato,Other,14/03/2020,900,1000,900
+Haryana,Ambala,Barara,Tomato,Other,16/03/2020,900,1000,900
+Haryana,Ambala,Barara,Tomato,Other,17/03/2020,1200,1300,1200
+Haryana,Ambala,Barara,Tomato,Other,18/03/2020,1200,1400,1200
+Haryana,Ambala,Barara,Tomato,Other,19/03/2020,1200,1300,1200
+Haryana,Ambala,Barara,Tomato,Other,20/03/2020,1200,1500,1200
+Haryana,Ambala,Barara,Tomato,Other,26/03/2020,1200,2000,1200
+Haryana,Ambala,Barara,Tomato,Other,27/03/2020,1400,2200,1400
+Haryana,Ambala,Barara,Tomato,Other,28/03/2020,1500,2000,1500
+Haryana,Ambala,Barara,Tomato,Other,29/03/2020,1800,2000,1800
+Haryana,Ambala,Barara,Tomato,Other,31/03/2020,1800,2000,1800
+Haryana,Ambala,Barara,Tomato,Other,03/04/2020,1400,1500,1400
+Haryana,Ambala,Barara,Tomato,Other,04/04/2020,1400,1500,1400
+Haryana,Ambala,Barara,Tomato,Other,06/04/2020,1400,1500,1400
+Haryana,Ambala,Barara,Tomato,Other,07/04/2020,1800,2000,1800
+Haryana,Ambala,Barara,Tomato,Other,08/04/2020,1800,2000,1800
+Haryana,Ambala,Barara,Tomato,Other,09/04/2020,1600,2200,1600
+Haryana,Ambala,Barara,Tomato,Other,10/04/2020,1500,1800,1500
+Haryana,Ambala,Barara,Tomato,Other,11/04/2020,1500,1800,1500
+Haryana,Ambala,Barara,Tomato,Other,12/04/2020,1500,1600,1500
+Haryana,Ambala,Barara,Tomato,Other,13/04/2020,1500,1600,1500
+Haryana,Ambala,Barara,Tomato,Other,14/04/2020,1500,1600,1500
+Haryana,Ambala,Barara,Tomato,Other,15/04/2020,1500,1600,1500
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,20/02/2020,1600,2000,1800
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,22/02/2020,1400,1800,1600
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,24/02/2020,1400,1600,1500
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,25/02/2020,1400,1600,1500
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,26/02/2020,1400,1800,1600
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,27/02/2020,1400,1600,1500
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,28/02/2020,1400,1600,1500
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,29/02/2020,1400,1600,1500
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,02/03/2020,1400,1600,1500
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,03/03/2020,1400,1600,1500
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,04/03/2020,1400,1600,1500
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,05/03/2020,1400,1600,1500
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,06/03/2020,1200,1600,1400
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,07/03/2020,1200,1600,1400
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,09/03/2020,1200,1600,1400
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,11/03/2020,1200,1600,1400
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,12/03/2020,1600,2000,1800
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,13/03/2020,1600,2000,1800
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,16/03/2020,1600,1800,1700
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,17/03/2020,1600,1800,1700
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,18/03/2020,1600,1800,1700
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,19/03/2020,1600,1800,1700
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,20/03/2020,1800,2400,2100
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,21/03/2020,2400,3200,2800
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,30/03/2020,3000,4000,3500
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,31/03/2020,3000,4000,3500
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,01/04/2020,2000,2400,2200
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,03/04/2020,1800,2000,1900
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,04/04/2020,1800,2000,1900
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,07/04/2020,2000,2400,2200
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,08/04/2020,2200,2800,2500
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,13/04/2020,2100,2500,2300
+Himachal Pradesh,Hamirpur,Hamirpur,Tomato,Other,14/04/2020,2100,2500,2300
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,21/02/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,22/02/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,28/02/2020,1400,1800,1600
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,04/03/2020,1600,1800,1700
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,05/03/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,06/03/2020,1600,1800,1700
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,08/03/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,11/03/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,14/03/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,15/03/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,17/03/2020,1400,1800,1600
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,20/03/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,21/03/2020,2600,3000,2800
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,26/03/2020,2450,2850,2650
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,27/03/2020,2850,3250,3050
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,28/03/2020,1400,1800,1600
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,29/03/2020,2800,3200,3000
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,31/03/2020,1600,1800,1700
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,01/04/2020,1400,1800,1600
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,03/04/2020,1200,1400,1300
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,04/04/2020,1250,1650,1450
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,06/04/2020,1400,1800,1600
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,09/04/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,10/04/2020,1400,1800,1600
+Jharkhand,Ranchi,Khunti,Tomato,Deshi,13/04/2020,1450,1850,1650
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,20/02/2020,250,600,450
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,21/02/2020,300,600,450
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,22/02/2020,400,1150,750
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,24/02/2020,400,900,650
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,25/02/2020,350,750,500
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,26/02/2020,300,600,450
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,27/02/2020,250,550,400
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,28/02/2020,350,600,500
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,29/02/2020,300,600,450
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,02/03/2020,400,800,600
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,03/03/2020,500,900,700
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,04/03/2020,400,800,600
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,05/03/2020,400,700,550
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,06/03/2020,500,800,650
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,07/03/2020,700,900,800
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,09/03/2020,800,1000,900
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,10/03/2020,800,1200,1000
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,11/03/2020,800,1000,900
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,12/03/2020,500,800,650
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,13/03/2020,400,700,550
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,14/03/2020,600,800,700
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,17/03/2020,800,1400,1100
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,18/03/2020,550,1150,750
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,19/03/2020,500,1000,750
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,20/03/2020,350,750,550
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,21/03/2020,400,900,600
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,23/03/2020,1000,1750,1250
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,24/03/2020,1250,2100,1600
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,25/03/2020,1280,2250,1750
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,27/03/2020,1250,2250,1750
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,28/03/2020,450,1000,750
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,29/03/2020,450,1000,750
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,30/03/2020,400,750,600
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,31/03/2020,400,700,650
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,01/04/2020,500,1100,750
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,02/04/2020,400,800,600
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,03/04/2020,450,1000,750
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,04/04/2020,400,800,600
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,05/04/2020,400,750,550
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,06/04/2020,350,600,450
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,07/04/2020,300,600,450
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,08/04/2020,400,700,550
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,09/04/2020,400,750,600
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,10/04/2020,400,800,600
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,11/04/2020,350,600,450
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,12/04/2020,450,850,600
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,13/04/2020,400,700,550
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,14/04/2020,400,700,600
+Karnataka,Bangalore,Channapatana,Tomato,Tomato,15/04/2020,400,700,550
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,20/02/2020,2200,2400,2300
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,21/02/2020,2200,2400,2300
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,22/02/2020,2100,2300,2200
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,23/02/2020,2100,2300,2200
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,24/02/2020,2100,2300,2200
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,25/02/2020,2100,2300,2200
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,26/02/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,28/02/2020,1900,2100,2000
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,01/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,02/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,03/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,04/03/2020,1900,2100,2000
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,05/03/2020,1900,2100,2000
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,06/03/2020,2100,2300,2200
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,07/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,08/03/2020,2100,2300,2200
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,09/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,10/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,11/03/2020,2100,2300,2200
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,12/03/2020,2100,2300,2200
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,13/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,14/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,15/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,16/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,17/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,18/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,19/03/2020,1900,2100,2000
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,20/03/2020,2100,2300,2200
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,21/03/2020,1900,2100,2000
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,22/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,23/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,24/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,25/03/2020,2000,2200,2100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,29/03/2020,3000,3200,3100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,30/03/2020,3400,3600,3500
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,31/03/2020,3300,3500,3400
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,01/04/2020,3300,3500,3400
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,02/04/2020,3300,3500,3400
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,03/04/2020,2900,3100,3000
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,04/04/2020,3000,3200,3100
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,05/04/2020,1900,2100,2000
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,06/04/2020,1900,2100,2000
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,07/04/2020,1900,2100,2000
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,08/04/2020,1900,2100,2000
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,10/04/2020,1900,2100,2000
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,11/04/2020,1800,2000,1900
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,12/04/2020,1900,2100,2000
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,13/04/2020,1900,2100,2000
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,14/04/2020,1700,1900,1800
+Kerala,Alappuzha,Kayamkulam,Tomato,Other,15/04/2020,1700,1900,1800
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,20/02/2020,600,800,700
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,21/02/2020,700,900,800
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,22/02/2020,883,1083,983
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,23/02/2020,800,1200,1000
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,24/02/2020,800,1200,1000
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,26/02/2020,600,800,700
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,28/02/2020,200,400,300
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,01/03/2020,633,833,733
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,05/03/2020,600,800,700
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,06/03/2020,800,1000,900
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,08/03/2020,700,900,800
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,09/03/2020,433,633,533
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,16/03/2020,400,600,500
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,18/03/2020,433,633,533
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,24/03/2020,466,666,566
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,26/03/2020,400,600,500
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,27/03/2020,400,600,500
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,28/03/2020,500,700,600
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,29/03/2020,500,700,600
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,31/03/2020,400,600,500
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,01/04/2020,400,600,500
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,02/04/2020,433,633,533
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,08/04/2020,900,1100,1000
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,12/04/2020,500,700,600
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),Tomato,Tomato,13/04/2020,800,1200,1000
+Odisha,Balasore,Jaleswar,Tomato,Other,22/02/2020,1200,1350,1300
+Odisha,Balasore,Jaleswar,Tomato,Other,23/02/2020,1100,1200,1150
+Odisha,Balasore,Jaleswar,Tomato,Other,24/02/2020,1000,1200,1100
+Odisha,Balasore,Jaleswar,Tomato,Other,25/02/2020,1100,1200,1150
+Odisha,Balasore,Jaleswar,Tomato,Other,26/02/2020,1000,1200,1100
+Odisha,Balasore,Jaleswar,Tomato,Other,27/02/2020,1100,1200,1150
+Odisha,Balasore,Jaleswar,Tomato,Other,28/02/2020,1100,1200,1150
+Odisha,Balasore,Jaleswar,Tomato,Other,29/02/2020,1000,1200,1100
+Odisha,Balasore,Jaleswar,Tomato,Other,02/03/2020,1200,1400,1300
+Odisha,Balasore,Jaleswar,Tomato,Other,03/03/2020,700,800,750
+Odisha,Balasore,Jaleswar,Tomato,Other,04/03/2020,800,1000,900
+Odisha,Balasore,Jaleswar,Tomato,Other,07/03/2020,700,800,750
+Odisha,Balasore,Jaleswar,Tomato,Other,08/03/2020,1100,1150,1120
+Odisha,Balasore,Jaleswar,Tomato,Other,09/03/2020,1000,1100,1050
+Odisha,Balasore,Jaleswar,Tomato,Other,10/03/2020,700,800,750
+Odisha,Balasore,Jaleswar,Tomato,Other,11/03/2020,700,800,750
+Odisha,Balasore,Jaleswar,Tomato,Other,12/03/2020,450,500,480
+Odisha,Balasore,Jaleswar,Tomato,Other,14/03/2020,400,600,500
+Odisha,Balasore,Jaleswar,Tomato,Other,15/03/2020,500,600,550
+Odisha,Balasore,Jaleswar,Tomato,Other,16/03/2020,400,500,450
+Odisha,Balasore,Jaleswar,Tomato,Other,17/03/2020,450,500,480
+Odisha,Balasore,Jaleswar,Tomato,Other,18/03/2020,600,700,650
+Odisha,Balasore,Jaleswar,Tomato,Other,19/03/2020,500,600,550
+Odisha,Balasore,Jaleswar,Tomato,Other,20/03/2020,400,500,450
+Odisha,Balasore,Jaleswar,Tomato,Other,21/03/2020,600,700,650
+Odisha,Balasore,Jaleswar,Tomato,Other,23/03/2020,400,600,500
+Odisha,Balasore,Jaleswar,Tomato,Other,24/03/2020,400,500,450
+Odisha,Balasore,Jaleswar,Tomato,Other,25/03/2020,900,1200,1000
+Odisha,Balasore,Jaleswar,Tomato,Other,26/03/2020,800,1100,900
+Odisha,Balasore,Jaleswar,Tomato,Other,27/03/2020,1200,1400,1300
+Odisha,Balasore,Jaleswar,Tomato,Other,28/03/2020,600,800,700
+Odisha,Balasore,Jaleswar,Tomato,Other,29/03/2020,700,900,800
+Odisha,Balasore,Jaleswar,Tomato,Other,30/03/2020,900,1100,1000
+Odisha,Balasore,Jaleswar,Tomato,Other,31/03/2020,800,1000,900
+Odisha,Balasore,Jaleswar,Tomato,Other,01/04/2020,800,1000,900
+Odisha,Balasore,Jaleswar,Tomato,Other,02/04/2020,900,1200,1000
+Odisha,Balasore,Jaleswar,Tomato,Other,03/04/2020,800,1000,900
+Odisha,Balasore,Jaleswar,Tomato,Other,04/04/2020,900,1100,1000
+Odisha,Balasore,Jaleswar,Tomato,Other,05/04/2020,700,900,800
+Odisha,Balasore,Jaleswar,Tomato,Other,06/04/2020,1100,1300,1200
+Odisha,Balasore,Jaleswar,Tomato,Other,07/04/2020,1000,1200,1100
+Odisha,Balasore,Jaleswar,Tomato,Other,08/04/2020,1000,1200,1100
+Odisha,Balasore,Jaleswar,Tomato,Other,09/04/2020,800,1200,900
+Odisha,Balasore,Jaleswar,Tomato,Other,10/04/2020,900,1100,1000
+Odisha,Balasore,Jaleswar,Tomato,Other,11/04/2020,1200,1500,1300
+Odisha,Balasore,Jaleswar,Tomato,Other,12/04/2020,900,1000,950
+Odisha,Balasore,Jaleswar,Tomato,Other,13/04/2020,800,1000,900
+Odisha,Balasore,Jaleswar,Tomato,Other,14/04/2020,1100,1300,1200
+Odisha,Balasore,Jaleswar,Tomato,Other,15/04/2020,1200,1350,1300
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,20/02/2020,400,800,700
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,21/02/2020,400,900,700
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,22/02/2020,400,800,650
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,24/02/2020,300,800,600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,25/02/2020,300,800,600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,26/02/2020,300,800,600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,27/02/2020,300,800,550
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,28/02/2020,300,800,600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,29/02/2020,300,800,550
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,02/03/2020,300,1000,800
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,03/03/2020,300,800,750
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,04/03/2020,300,800,600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,05/03/2020,300,800,600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,06/03/2020,300,800,600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,07/03/2020,300,900,600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,09/03/2020,300,900,700
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,10/03/2020,300,800,600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,11/03/2020,300,800,600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,12/03/2020,300,900,600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,13/03/2020,300,800,600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,14/03/2020,300,900,600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,16/03/2020,300,900,700
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,17/03/2020,300,1000,700
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,18/03/2020,300,1000,900
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,19/03/2020,300,1000,670
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,20/03/2020,300,1200,800
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,21/03/2020,800,2000,1600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,23/03/2020,400,1200,1000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,30/03/2020,1000,1600,1300
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,31/03/2020,800,1600,1200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,01/04/2020,800,1500,1200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,05/04/2020,400,2000,1500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,06/04/2020,700,1500,1200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,07/04/2020,800,2000,1400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,08/04/2020,700,2200,1600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,09/04/2020,800,1800,1400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,10/04/2020,800,2000,1500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,13/04/2020,600,1500,1000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,14/04/2020,1000,1400,1300
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Tomato,Tomato,15/04/2020,1000,1400,1200
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,20/02/2020,800,1000,900
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,21/02/2020,750,950,850
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,22/02/2020,700,900,800
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,23/02/2020,700,800,750
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,24/02/2020,700,800,750
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,25/02/2020,700,800,750
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,26/02/2020,700,800,750
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,27/02/2020,700,800,750
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,28/02/2020,600,800,700
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,29/02/2020,700,900,800
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,06/03/2020,650,850,750
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,07/03/2020,550,750,650
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,13/03/2020,600,700,650
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,14/03/2020,650,850,750
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,15/03/2020,700,800,750
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,16/03/2020,700,800,750
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,17/03/2020,700,800,750
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,18/03/2020,400,500,450
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,19/03/2020,400,500,450
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,20/03/2020,400,500,450
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,25/03/2020,700,1000,850
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,26/03/2020,800,1000,900
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,27/03/2020,800,1000,900
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,28/03/2020,700,1000,850
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,29/03/2020,800,1200,1000
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,31/03/2020,800,1000,900
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,02/04/2020,1200,1400,1200
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,03/04/2020,1000,1200,1100
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,04/04/2020,1200,1400,1300
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,05/04/2020,1000,1500,1300
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,06/04/2020,800,1000,900
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,07/04/2020,800,1200,1000
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,08/04/2020,800,1200,1000
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,10/04/2020,1000,1500,1300
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,11/04/2020,800,1000,900
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,12/04/2020,800,1000,900
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,13/04/2020,800,1200,1000
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,14/04/2020,800,1000,900
+Rajasthan,Ajmer,Bijay Nagar,Tomato,Deshi,15/04/2020,1000,1300,1200
+Tripura,Gomati,Garjee,Tomato,Hybrid,20/02/2020,2000,2200,2170
+Tripura,Gomati,Garjee,Tomato,Hybrid,26/02/2020,1800,2000,1950
+Tripura,Gomati,Garjee,Tomato,Hybrid,02/03/2020,1800,2000,1870
+Tripura,Gomati,Garjee,Tomato,Hybrid,05/03/2020,2000,2200,2150
+Tripura,Gomati,Garjee,Tomato,Hybrid,06/03/2020,2000,2200,2150
+Tripura,Gomati,Garjee,Tomato,Hybrid,13/03/2020,1500,2000,1850
+Tripura,Gomati,Garjee,Tomato,Hybrid,17/03/2020,1800,2000,1950
+Tripura,Gomati,Garjee,Tomato,Hybrid,19/03/2020,1500,1800,1680
+Tripura,Gomati,Garjee,Tomato,Hybrid,22/03/2020,1000,1500,1450
+Tripura,Gomati,Garjee,Tomato,Hybrid,25/03/2020,2000,2200,2180
+Tripura,Gomati,Garjee,Tomato,Hybrid,26/03/2020,2000,2200,2150
+Tripura,Gomati,Garjee,Tomato,Hybrid,27/03/2020,1500,1800,1650
+Tripura,Gomati,Garjee,Tomato,Hybrid,28/03/2020,2000,2200,2170
+Tripura,Gomati,Garjee,Tomato,Hybrid,31/03/2020,1500,2000,1870
+Tripura,Gomati,Garjee,Tomato,Hybrid,01/04/2020,1000,1500,1250
+Tripura,Gomati,Garjee,Tomato,Hybrid,02/04/2020,2000,2200,2150
+Tripura,Gomati,Garjee,Tomato,Hybrid,04/04/2020,2000,2100,2050
+Tripura,Gomati,Garjee,Tomato,Hybrid,05/04/2020,2000,2200,2150
+Tripura,Gomati,Garjee,Tomato,Hybrid,07/04/2020,2000,2200,2150
+Tripura,Gomati,Garjee,Tomato,Hybrid,08/04/2020,2000,2200,2150
+Tripura,Gomati,Garjee,Tomato,Hybrid,09/04/2020,2000,2200,2150
+Tripura,Gomati,Garjee,Tomato,Hybrid,10/04/2020,2000,2200,2050
+Tripura,Gomati,Garjee,Tomato,Hybrid,11/04/2020,2000,2100,2050
+Tripura,Gomati,Garjee,Tomato,Hybrid,12/04/2020,2000,2200,2150
+Tripura,Gomati,Garjee,Tomato,Hybrid,13/04/2020,2000,2500,2270
+Tripura,Gomati,Garjee,Tomato,Hybrid,15/04/2020,1500,2000,1850
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,20/02/2020,800,1060,920
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,22/02/2020,800,1070,910
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,23/02/2020,850,1100,950
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,24/02/2020,850,1150,975
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,26/02/2020,900,1200,1000
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,27/02/2020,870,1150,975
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,28/02/2020,900,1175,1000
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,01/03/2020,850,1150,970
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,02/03/2020,850,1100,950
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,03/03/2020,825,1100,925
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,04/03/2020,800,1070,900
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,05/03/2020,830,1100,930
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,06/03/2020,900,1170,1000
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,07/03/2020,870,1150,970
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,08/03/2020,925,1180,1025
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,09/03/2020,950,1200,1050
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,12/03/2020,950,1100,1020
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,13/03/2020,950,1220,1060
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,14/03/2020,900,1150,1000
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,15/03/2020,950,1220,1060
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,16/03/2020,1000,1270,1100
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,17/03/2020,900,1160,1000
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,18/03/2020,800,1060,900
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,19/03/2020,830,1100,930
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,20/03/2020,750,1000,850
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,21/03/2020,770,1030,870
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,31/03/2020,1500,1800,1600
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,01/04/2020,1450,1700,1550
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,02/04/2020,1050,1300,1150
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,03/04/2020,1050,1350,1175
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,04/04/2020,1050,1300,1150
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,05/04/2020,1350,1600,1450
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,06/04/2020,1250,1500,1350
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,07/04/2020,1200,1460,1300
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,08/04/2020,1325,1400,1325
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,09/04/2020,1300,1450,1400
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,10/04/2020,1400,1560,1500
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,11/04/2020,1250,1400,1350
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,12/04/2020,1300,1460,1400
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,13/04/2020,1100,1260,1200
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,14/04/2020,1100,1230,1180
+Uttar Pradesh,Gorakhpur,Gorakhpur,Tomato,Hybrid,15/04/2020,1100,1260,1200
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,20/02/2020,900,1200,1100
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,21/02/2020,950,1250,1050
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,22/02/2020,1200,2000,1600
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,24/02/2020,1100,2000,1500
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,25/02/2020,1000,1800,1400
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,26/02/2020,1000,2000,1500
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,27/02/2020,900,1600,1200
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,29/02/2020,800,1500,1000
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,04/03/2020,1000,1600,1300
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,05/03/2020,1600,2200,1850
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,06/03/2020,1000,1500,1200
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,07/03/2020,800,1300,1000
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,09/03/2020,800,1400,1000
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,11/03/2020,750,1350,1000
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,12/03/2020,700,1200,900
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,13/03/2020,700,1100,850
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,14/03/2020,700,1200,800
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,16/03/2020,750,1100,850
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,17/03/2020,800,1200,900
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,18/03/2020,1200,2250,1600
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,19/03/2020,1400,2200,1600
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,20/03/2020,1200,2000,1550
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,21/03/2020,1150,2000,1500
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,24/03/2020,1200,2000,1500
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,26/03/2020,1200,2200,1500
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,27/03/2020,1250,1600,1500
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,28/03/2020,1300,1800,1600
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,30/03/2020,800,1600,1200
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,31/03/2020,800,1600,1200
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,03/04/2020,1000,2000,1200
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,04/04/2020,1000,1600,1200
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,06/04/2020,1500,1800,1600
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,07/04/2020,1000,1600,1400
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,08/04/2020,2200,3000,2600
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,09/04/2020,2500,3500,3000
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,10/04/2020,2500,3500,3000
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,11/04/2020,1800,3000,2200
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,14/04/2020,2600,3200,3000
+Uttrakhand,Dehradoon,Dehradoon,Tomato,Other,15/04/2020,2600,3000,2800
+West Bengal,Bankura,Khatra,Tomato,Tomato,20/02/2020,400,600,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,21/02/2020,400,600,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,22/02/2020,450,700,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,23/02/2020,400,700,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,24/02/2020,400,700,600
+West Bengal,Bankura,Khatra,Tomato,Tomato,25/02/2020,400,700,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,26/02/2020,300,500,400
+West Bengal,Bankura,Khatra,Tomato,Tomato,27/02/2020,300,600,400
+West Bengal,Bankura,Khatra,Tomato,Tomato,28/02/2020,300,500,400
+West Bengal,Bankura,Khatra,Tomato,Tomato,29/02/2020,300,600,400
+West Bengal,Bankura,Khatra,Tomato,Tomato,01/03/2020,300,500,400
+West Bengal,Bankura,Khatra,Tomato,Tomato,02/03/2020,400,600,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,03/03/2020,400,700,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,04/03/2020,350,600,400
+West Bengal,Bankura,Khatra,Tomato,Tomato,05/03/2020,600,1000,700
+West Bengal,Bankura,Khatra,Tomato,Tomato,06/03/2020,500,900,700
+West Bengal,Bankura,Khatra,Tomato,Tomato,07/03/2020,500,800,600
+West Bengal,Bankura,Khatra,Tomato,Tomato,08/03/2020,500,800,600
+West Bengal,Bankura,Khatra,Tomato,Tomato,09/03/2020,600,900,700
+West Bengal,Bankura,Khatra,Tomato,Tomato,10/03/2020,500,1000,700
+West Bengal,Bankura,Khatra,Tomato,Tomato,11/03/2020,300,600,400
+West Bengal,Bankura,Khatra,Tomato,Tomato,12/03/2020,300,700,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,13/03/2020,500,800,600
+West Bengal,Bankura,Khatra,Tomato,Tomato,14/03/2020,350,700,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,15/03/2020,300,600,400
+West Bengal,Bankura,Khatra,Tomato,Tomato,16/03/2020,350,700,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,17/03/2020,350,600,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,18/03/2020,400,700,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,19/03/2020,400,600,450
+West Bengal,Bankura,Khatra,Tomato,Tomato,20/03/2020,400,600,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,21/03/2020,400,700,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,22/03/2020,350,700,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,23/03/2020,400,700,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,24/03/2020,600,900,700
+West Bengal,Bankura,Khatra,Tomato,Tomato,25/03/2020,600,900,700
+West Bengal,Bankura,Khatra,Tomato,Tomato,26/03/2020,600,800,700
+West Bengal,Bankura,Khatra,Tomato,Tomato,27/03/2020,650,900,750
+West Bengal,Bankura,Khatra,Tomato,Tomato,28/03/2020,650,900,700
+West Bengal,Bankura,Khatra,Tomato,Tomato,29/03/2020,600,900,700
+West Bengal,Bankura,Khatra,Tomato,Tomato,30/03/2020,550,800,600
+West Bengal,Bankura,Khatra,Tomato,Tomato,31/03/2020,600,800,700
+West Bengal,Bankura,Khatra,Tomato,Tomato,01/04/2020,500,700,550
+West Bengal,Bankura,Khatra,Tomato,Tomato,02/04/2020,500,700,550
+West Bengal,Bankura,Khatra,Tomato,Tomato,03/04/2020,500,800,600
+West Bengal,Bankura,Khatra,Tomato,Tomato,05/04/2020,550,800,600
+West Bengal,Bankura,Khatra,Tomato,Tomato,06/04/2020,550,800,600
+West Bengal,Bankura,Khatra,Tomato,Tomato,07/04/2020,450,700,500
+West Bengal,Bankura,Khatra,Tomato,Tomato,08/04/2020,500,800,600
+West Bengal,Bankura,Khatra,Tomato,Tomato,09/04/2020,1000,1400,1200
+West Bengal,Bankura,Khatra,Tomato,Tomato,10/04/2020,900,1200,1000
+West Bengal,Bankura,Khatra,Tomato,Tomato,11/04/2020,800,1200,1000
+West Bengal,Bankura,Khatra,Tomato,Tomato,12/04/2020,800,1100,1000
+West Bengal,Bankura,Khatra,Tomato,Tomato,13/04/2020,1200,1700,1500
+West Bengal,Bankura,Khatra,Tomato,Tomato,14/04/2020,1000,1400,1100
+West Bengal,Bankura,Khatra,Tomato,Tomato,15/04/2020,1000,1400,1200
