@@ -1,0 +1,626 @@
+state,state,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,20/02/2020,2400,2400,2400
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,21/02/2020,2500,2500,2500
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,22/02/2020,3000,3000,3000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,26/02/2020,2500,2500,2500
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,27/02/2020,2500,2500,2600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,28/02/2020,2200,2200,2200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,29/02/2020,2200,2200,2200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,01/03/2020,2500,2500,2500
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,03/03/2020,2500,2500,2500
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,04/03/2020,2200,2200,2200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,05/03/2020,2200,2200,2200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,06/03/2020,2200,2200,2200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,07/03/2020,2000,2000,2000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,11/03/2020,2000,2000,2000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,12/03/2020,2200,2200,2200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,13/03/2020,2200,2200,2200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,14/03/2020,2200,2200,2200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,15/03/2020,2200,2200,2200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,17/03/2020,2200,2200,2200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,18/03/2020,2200,2200,2200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,30/03/2020,2500,2500,2500
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,31/03/2020,2200,2200,2200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,01/04/2020,2000,2000,2000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,02/04/2020,2000,2000,2000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,03/04/2020,2000,2000,2000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,04/04/2020,2000,2000,2000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,05/04/2020,1500,1500,1500
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,07/04/2020,1400,1400,1400
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,08/04/2020,1800,1800,1800
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,09/04/2020,1200,1200,1200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,10/04/2020,1200,1200,1200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,11/04/2020,1200,1200,1200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,12/04/2020,1100,1100,1100
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,14/04/2020,1200,1200,1200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,15/04/2020,1200,1200,1200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,16/04/2020,1100,1100,1100
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,17/04/2020,1200,1200,1200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Onion,18/04/2020,1200,1200,1200
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,20/02/2020,1500,2500,2000
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,21/02/2020,1500,2500,1900
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,22/02/2020,1500,2500,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,24/02/2020,2000,2500,2250
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,25/02/2020,2000,2500,2200
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,26/02/2020,1750,2500,2100
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,27/02/2020,2000,2500,2250
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,28/02/2020,1750,2500,2400
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,29/02/2020,2000,2500,2300
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,02/03/2020,2000,2500,2250
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,03/03/2020,1500,2000,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,04/03/2020,1500,2000,1750
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,05/03/2020,1500,2100,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,06/03/2020,1500,2000,1750
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,09/03/2020,1500,2000,1750
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,11/03/2020,1500,2000,1750
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,12/03/2020,1500,2000,1700
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,13/03/2020,1500,2000,1750
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,14/03/2020,1500,2000,1750
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,16/03/2020,2000,2500,2250
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,17/03/2020,1750,2100,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,18/03/2020,1750,2000,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,19/03/2020,1500,2000,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,20/03/2020,1250,1750,1400
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,21/03/2020,1250,1750,1500
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,23/03/2020,1250,1750,1600
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,24/03/2020,1500,2000,1750
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,25/03/2020,1500,2000,1750
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,26/03/2020,2000,2250,2100
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,27/03/2020,2000,2250,2100
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,28/03/2020,2000,2250,2100
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,30/03/2020,2000,2250,2100
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,31/03/2020,1800,2250,2000
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,01/04/2020,1500,2000,1750
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,02/04/2020,1500,2000,1750
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,03/04/2020,1500,2000,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,04/04/2020,1500,1750,1600
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,06/04/2020,1000,1250,1200
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,07/04/2020,500,1050,900
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,08/04/2020,1000,1500,1250
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,09/04/2020,1000,1500,1400
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,10/04/2020,1000,1500,1250
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,13/04/2020,1000,1500,1400
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,14/04/2020,800,1100,900
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,15/04/2020,1000,1400,1250
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,16/04/2020,700,1000,900
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,17/04/2020,750,1400,1200
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Onion,Onion,18/04/2020,1000,1100,1050
+Haryana,Kurukshetra,Shahabad,Onion,Onion,20/02/2020,2200,2700,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,21/02/2020,2200,2700,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,22/02/2020,2200,2800,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,24/02/2020,2200,2800,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,26/02/2020,2100,2700,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,27/02/2020,2100,2700,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,28/02/2020,2200,2800,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,29/02/2020,2200,2700,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,01/03/2020,2200,2700,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,02/03/2020,2200,2700,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,03/03/2020,2200,2700,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,04/03/2020,2200,2700,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,05/03/2020,2200,2700,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,06/03/2020,1500,2700,2500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,07/03/2020,1500,2700,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,09/03/2020,1500,2700,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,10/03/2020,1500,2700,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,11/03/2020,1450,2700,1600
+Haryana,Kurukshetra,Shahabad,Onion,Onion,12/03/2020,1450,2700,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,13/03/2020,1450,2700,1900
+Haryana,Kurukshetra,Shahabad,Onion,Onion,16/03/2020,1500,2700,2200
+Haryana,Kurukshetra,Shahabad,Onion,Onion,17/03/2020,1500,2700,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,18/03/2020,1500,2600,2200
+Haryana,Kurukshetra,Shahabad,Onion,Onion,19/03/2020,1500,2600,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,20/03/2020,1500,2600,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,21/03/2020,1500,2700,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,23/03/2020,1600,2500,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,24/03/2020,1800,2500,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,25/03/2020,1900,2500,2200
+Haryana,Kurukshetra,Shahabad,Onion,Onion,27/03/2020,1900,2500,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,28/03/2020,1900,2500,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,31/03/2020,1800,2400,2200
+Haryana,Kurukshetra,Shahabad,Onion,Onion,01/04/2020,1800,2400,2200
+Haryana,Kurukshetra,Shahabad,Onion,Onion,02/04/2020,1800,2200,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,03/04/2020,1800,2100,2000
+Haryana,Kurukshetra,Shahabad,Onion,Onion,04/04/2020,1700,2200,1800
+Haryana,Kurukshetra,Shahabad,Onion,Onion,06/04/2020,1600,2000,1800
+Haryana,Kurukshetra,Shahabad,Onion,Onion,07/04/2020,1600,2000,1800
+Haryana,Kurukshetra,Shahabad,Onion,Onion,08/04/2020,1500,1800,1600
+Haryana,Kurukshetra,Shahabad,Onion,Onion,09/04/2020,1500,1800,1600
+Haryana,Kurukshetra,Shahabad,Onion,Onion,10/04/2020,1500,2000,1700
+Haryana,Kurukshetra,Shahabad,Onion,Onion,11/04/2020,1300,2000,1500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,13/04/2020,1400,1800,1600
+Haryana,Kurukshetra,Shahabad,Onion,Onion,14/04/2020,1400,1600,1500
+Haryana,Kurukshetra,Shahabad,Onion,Onion,15/04/2020,1200,1600,1400
+Haryana,Kurukshetra,Shahabad,Onion,Onion,16/04/2020,1200,1600,1400
+Haryana,Kurukshetra,Shahabad,Onion,Onion,17/04/2020,1000,1500,1200
+Haryana,Kurukshetra,Shahabad,Onion,Onion,18/04/2020,1000,1500,1200
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,20/02/2020,2600,3600,3200
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,22/02/2020,2800,4200,3500
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,25/02/2020,3000,3200,3100
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,26/02/2020,2600,3600,3200
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,27/02/2020,2600,3400,2900
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,04/03/2020,2100,2800,2500
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,05/03/2020,2100,2800,2400
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,06/03/2020,2600,3200,2900
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,07/03/2020,2500,3100,2600
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,11/03/2020,2600,3400,3200
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,12/03/2020,2600,3200,2900
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,14/03/2020,2500,3200,2900
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,16/03/2020,2200,3200,2600
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,17/03/2020,2500,3200,2600
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,18/03/2020,2500,3500,3100
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,19/03/2020,2500,3200,2900
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,20/03/2020,2500,3500,3200
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,21/03/2020,2500,3500,3100
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,31/03/2020,3200,3600,3400
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,05/04/2020,2300,3200,2500
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,06/04/2020,2400,3200,3000
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,07/04/2020,2500,2800,2600
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,08/04/2020,2300,2800,2400
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,09/04/2020,2300,2600,2500
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,10/04/2020,2000,2400,2100
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,11/04/2020,2100,2400,2200
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,12/04/2020,2000,2400,2300
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,13/04/2020,2000,2200,2100
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,14/04/2020,1600,2000,1800
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,15/04/2020,1700,2200,2100
+Jharkhand,Ranchi,Khunti,Onion,Local,21/02/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Onion,Local,22/02/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Onion,Local,25/02/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Onion,Local,28/02/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Onion,Local,04/03/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Onion,Local,05/03/2020,2450,2850,2650
+Jharkhand,Ranchi,Khunti,Onion,Local,06/03/2020,2450,2850,2650
+Jharkhand,Ranchi,Khunti,Onion,Local,08/03/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Onion,Local,11/03/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Onion,Local,12/03/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Onion,Local,13/03/2020,2400,2600,2500
+Jharkhand,Ranchi,Khunti,Onion,Local,14/03/2020,2200,2400,2300
+Jharkhand,Ranchi,Khunti,Onion,Local,15/03/2020,2600,2800,2700
+Jharkhand,Ranchi,Khunti,Onion,Local,17/03/2020,2000,2200,2100
+Jharkhand,Ranchi,Khunti,Onion,Local,20/03/2020,2000,2200,2100
+Jharkhand,Ranchi,Khunti,Onion,Local,21/03/2020,2400,2600,2500
+Jharkhand,Ranchi,Khunti,Onion,Local,26/03/2020,2850,3250,3050
+Jharkhand,Ranchi,Khunti,Onion,Local,27/03/2020,2450,2650,2550
+Jharkhand,Ranchi,Khunti,Onion,Local,28/03/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Onion,Local,29/03/2020,2850,3250,3050
+Jharkhand,Ranchi,Khunti,Onion,Local,31/03/2020,2600,2800,2700
+Jharkhand,Ranchi,Khunti,Onion,Local,01/04/2020,2450,2850,2650
+Jharkhand,Ranchi,Khunti,Onion,Local,03/04/2020,2450,2850,2650
+Jharkhand,Ranchi,Khunti,Onion,Local,04/04/2020,2450,2850,2650
+Jharkhand,Ranchi,Khunti,Onion,Local,06/04/2020,2200,2600,2400
+Jharkhand,Ranchi,Khunti,Onion,Local,09/04/2020,2200,2600,2400
+Jharkhand,Ranchi,Khunti,Onion,Local,10/04/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Onion,Local,13/04/2020,2200,2600,2400
+Jharkhand,Ranchi,Khunti,Onion,Local,16/04/2020,2000,2400,2200
+Jharkhand,Ranchi,Khunti,Onion,Local,17/04/2020,2200,2600,2400
+Jharkhand,Ranchi,Khunti,Onion,Other,21/02/2020,2200,2400,2300
+Jharkhand,Ranchi,Khunti,Onion,Other,22/02/2020,2000,2400,2200
+Jharkhand,Ranchi,Khunti,Onion,Other,25/02/2020,1800,2000,1900
+Jharkhand,Ranchi,Khunti,Onion,Other,28/02/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Onion,Other,04/03/2020,2000,2200,2100
+Jharkhand,Ranchi,Khunti,Onion,Other,05/03/2020,2000,2200,2100
+Jharkhand,Ranchi,Khunti,Onion,Other,06/03/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Onion,Other,08/03/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Onion,Other,11/03/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Onion,Other,12/03/2020,2000,2200,2100
+Jharkhand,Ranchi,Khunti,Onion,Other,13/03/2020,1800,2000,1900
+Jharkhand,Ranchi,Khunti,Onion,Other,14/03/2020,1600,1800,1700
+Jharkhand,Ranchi,Khunti,Onion,Other,15/03/2020,1800,2000,1900
+Jharkhand,Ranchi,Khunti,Onion,Other,17/03/2020,1600,1800,1700
+Jharkhand,Ranchi,Khunti,Onion,Other,20/03/2020,1650,1850,1750
+Jharkhand,Ranchi,Khunti,Onion,Other,21/03/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Onion,Other,26/03/2020,2200,2400,2300
+Jharkhand,Ranchi,Khunti,Onion,Other,27/03/2020,2250,2450,2350
+Jharkhand,Ranchi,Khunti,Onion,Other,28/03/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Onion,Other,29/03/2020,2450,2850,2650
+Jharkhand,Ranchi,Khunti,Onion,Other,31/03/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Onion,Other,01/04/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Onion,Other,03/04/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Onion,Other,04/04/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Onion,Other,06/04/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Onion,Other,09/04/2020,1800,2000,1900
+Jharkhand,Ranchi,Khunti,Onion,Other,10/04/2020,1600,2000,1800
+Jharkhand,Ranchi,Khunti,Onion,Other,13/04/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Onion,Other,16/04/2020,1650,2050,1850
+Jharkhand,Ranchi,Khunti,Onion,Other,17/04/2020,1800,2000,1900
+Karnataka,Bangalore,Bangalore,Onion,Local,20/02/2020,2000,2500,2100
+Karnataka,Bangalore,Bangalore,Onion,Local,24/02/2020,1800,2000,1900
+Karnataka,Bangalore,Bangalore,Onion,Local,25/02/2020,1800,2000,1900
+Karnataka,Bangalore,Bangalore,Onion,Local,26/02/2020,1500,1700,1600
+Karnataka,Bangalore,Bangalore,Onion,Local,27/02/2020,1700,1900,1800
+Karnataka,Bangalore,Bangalore,Onion,Local,28/02/2020,1700,1900,1800
+Karnataka,Bangalore,Bangalore,Onion,Local,29/02/2020,1600,1800,1700
+Karnataka,Bangalore,Bangalore,Onion,Local,02/03/2020,1600,1800,1700
+Karnataka,Bangalore,Bangalore,Onion,Local,03/03/2020,1600,1800,1700
+Karnataka,Bangalore,Bangalore,Onion,Local,04/03/2020,1200,1600,1400
+Karnataka,Bangalore,Bangalore,Onion,Local,05/03/2020,1200,1500,1350
+Karnataka,Bangalore,Bangalore,Onion,Local,06/03/2020,1200,1500,1350
+Karnataka,Bangalore,Bangalore,Onion,Local,07/03/2020,1200,1500,1350
+Karnataka,Bangalore,Bangalore,Onion,Local,09/03/2020,1200,1600,1400
+Karnataka,Bangalore,Bangalore,Onion,Local,10/03/2020,1400,1800,1600
+Karnataka,Bangalore,Bangalore,Onion,Local,11/03/2020,1700,2000,1850
+Karnataka,Bangalore,Bangalore,Onion,Local,12/03/2020,1700,2000,1850
+Karnataka,Bangalore,Bangalore,Onion,Local,13/03/2020,1700,2000,1850
+Karnataka,Bangalore,Bangalore,Onion,Local,16/03/2020,1300,1500,1400
+Karnataka,Bangalore,Bangalore,Onion,Local,17/03/2020,1200,1400,1300
+Karnataka,Bangalore,Bangalore,Onion,Local,18/03/2020,1000,1200,1100
+Karnataka,Bangalore,Bangalore,Onion,Local,19/03/2020,1000,1200,1100
+Karnataka,Bangalore,Bangalore,Onion,Local,20/03/2020,1000,1200,1100
+Karnataka,Bangalore,Bangalore,Onion,Local,21/03/2020,1000,1200,1100
+Karnataka,Bangalore,Bangalore,Onion,Local,23/03/2020,1500,1700,1600
+Karnataka,Bangalore,Bangalore,Onion,Local,24/03/2020,1500,1700,1600
+Karnataka,Bangalore,Bangalore,Onion,Local,30/03/2020,1500,1700,1600
+Karnataka,Bangalore,Bangalore,Onion,Local,31/03/2020,1500,1700,1600
+Karnataka,Bangalore,Bangalore,Onion,Local,01/04/2020,1000,1400,1200
+Karnataka,Bangalore,Bangalore,Onion,Local,02/04/2020,1200,1400,1300
+Karnataka,Bangalore,Bangalore,Onion,Local,03/04/2020,1000,1200,1100
+Karnataka,Bangalore,Bangalore,Onion,Local,04/04/2020,1000,1300,1150
+Karnataka,Bangalore,Bangalore,Onion,Local,07/04/2020,1300,1500,1400
+Karnataka,Bangalore,Bangalore,Onion,Local,08/04/2020,1100,1200,1150
+Karnataka,Bangalore,Bangalore,Onion,Local,09/04/2020,600,800,700
+Karnataka,Bangalore,Bangalore,Onion,Local,13/04/2020,900,1100,1000
+Karnataka,Bangalore,Bangalore,Onion,Local,15/04/2020,800,1000,900
+Karnataka,Bangalore,Bangalore,Onion,Local,16/04/2020,900,1000,950
+Karnataka,Bangalore,Bangalore,Onion,Local,17/04/2020,600,800,700
+Karnataka,Bangalore,Bangalore,Onion,Local,18/04/2020,800,900,850
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,20/02/2020,4300,4700,4500
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,22/02/2020,4100,4400,4300
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,24/02/2020,4000,4400,4200
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,25/02/2020,4000,4400,4200
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,26/02/2020,3700,4200,4000
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,27/02/2020,4000,4400,4200
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,28/02/2020,4000,4400,4200
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,29/02/2020,4000,4400,4200
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,03/03/2020,4500,4800,4700
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,04/03/2020,4700,5100,5000
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,05/03/2020,4700,5100,5000
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,06/03/2020,4700,5100,5000
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,07/03/2020,4700,5200,5000
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,09/03/2020,5300,5700,5500
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,10/03/2020,5200,5700,5500
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,11/03/2020,5200,5700,5500
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,12/03/2020,5000,5600,5300
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,13/03/2020,5300,5700,5500
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,17/03/2020,5000,5600,5300
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,18/03/2020,5000,5600,5300
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,19/03/2020,5200,5700,5500
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,20/03/2020,5300,5700,5500
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,21/03/2020,5400,5700,5600
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,23/03/2020,5300,5700,5500
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,24/03/2020,5400,5700,5600
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,25/03/2020,5300,5700,5500
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,26/03/2020,5600,5900,5700
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,30/03/2020,8400,8700,8600
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,02/04/2020,7900,8300,8200
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,03/04/2020,5700,6200,6000
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,04/04/2020,5500,6000,5800
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,06/04/2020,5500,5800,5700
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,07/04/2020,7500,7800,7700
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,08/04/2020,6500,6800,6700
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,09/04/2020,6500,6900,6700
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,13/04/2020,6300,6700,6500
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,15/04/2020,6300,6700,6500
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,16/04/2020,5300,5800,5600
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,17/04/2020,5500,5800,5700
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,21/02/2020,930,1510,1245
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,22/02/2020,795,1370,980
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,25/02/2020,511,1501,950
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,26/02/2020,820,1901,1826
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,27/02/2020,550,1900,1400
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,28/02/2020,900,1850,1000
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,29/02/2020,481,1754,1420
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,03/03/2020,405,1400,1359
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,04/03/2020,751,1700,1601
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,05/03/2020,500,1500,1418
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,06/03/2020,200,1245,550
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,07/03/2020,981,1235,1100
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,08/03/2020,310,1250,1115
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,09/03/2020,450,1326,812
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,10/03/2020,405,1200,850
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,11/03/2020,401,1250,805
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,13/03/2020,701,1751,1485
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,14/03/2020,750,1700,950
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,15/03/2020,740,1740,850
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,16/03/2020,550,950,630
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,17/03/2020,600,1500,1315
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,18/03/2020,700,1500,1000
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,19/03/2020,300,1500,750
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,20/03/2020,600,1510,1250
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,21/03/2020,500,1450,780
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,22/03/2020,550,1550,1000
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,23/03/2020,450,1320,850
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,24/03/2020,450,1500,750
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,25/03/2020,509,1250,800
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,26/03/2020,500,1500,800
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,27/03/2020,500,1345,870
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,28/03/2020,200,1100,450
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,29/03/2020,350,1230,750
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,30/03/2020,450,1200,760
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,31/03/2020,350,1210,750
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,15/04/2020,780,2500,2000
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,16/04/2020,800,1550,1000
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,17/04/2020,450,1200,850
+Madhya Pradesh,Shajapur,Kalapipal,Onion,Other,18/04/2020,380,950,500
+Odisha,Sundergarh,Sargipali,Onion,Other,23/02/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,24/02/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,25/02/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,26/02/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,27/02/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,28/02/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,29/02/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,01/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,02/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,03/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,04/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,10/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,11/03/2020,2500,2800,2700
+Odisha,Sundergarh,Sargipali,Onion,Other,12/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,13/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,14/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,15/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,16/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,17/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,18/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,19/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,20/03/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,15/04/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,16/04/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,17/04/2020,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Onion,Other,18/04/2020,2500,3000,2800
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,20/02/2020,1000,1800,1500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,21/02/2020,1000,2100,1600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,22/02/2020,700,2000,1400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,24/02/2020,650,1950,1400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,25/02/2020,700,2000,1400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,26/02/2020,500,1900,1400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,27/02/2020,500,1900,1400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,28/02/2020,700,2000,1300
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,29/02/2020,500,2000,1400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,02/03/2020,600,2000,1400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,03/03/2020,600,2000,1350
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,04/03/2020,600,2100,1300
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,05/03/2020,600,2000,1245
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,06/03/2020,600,2100,1300
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,07/03/2020,650,2000,1300
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,09/03/2020,600,2000,1350
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,10/03/2020,550,1950,1250
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,11/03/2020,600,2000,1300
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,12/03/2020,600,1900,1200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,13/03/2020,600,1900,1250
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,14/03/2020,600,2000,1300
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,16/03/2020,600,1960,1280
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,17/03/2020,600,2000,1200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,18/03/2020,570,2050,1370
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,19/03/2020,550,2000,1200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,20/03/2020,800,2200,1500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,21/03/2020,700,2200,1500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,23/03/2020,700,2200,1400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,30/03/2020,1000,2200,1400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,31/03/2020,1000,2200,1400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,01/04/2020,700,2000,1200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,05/04/2020,800,1700,1200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,06/04/2020,700,1800,1200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,07/04/2020,700,1800,1200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,08/04/2020,800,2000,1200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,09/04/2020,800,1800,1000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,10/04/2020,600,1600,900
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,13/04/2020,600,1600,900
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,14/04/2020,600,1200,900
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Onion,Onion,15/04/2020,600,1200,800
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,21/02/2020,1500,2500,2000
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,22/02/2020,1500,2400,1950
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,23/02/2020,1500,2500,2000
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,24/02/2020,1500,2500,2000
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,25/02/2020,1000,2500,1900
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,26/02/2020,1000,2500,2000
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,27/02/2020,1000,2500,2100
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,28/02/2020,1200,2500,2200
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,29/02/2020,1500,2500,2000
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,01/03/2020,1400,2500,2100
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,02/03/2020,1500,3500,3000
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,03/03/2020,1500,2500,2200
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,05/03/2020,1500,2500,2200
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,06/03/2020,1500,2400,2000
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,08/03/2020,1500,2500,2000
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,09/03/2020,1400,2400,1900
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,11/03/2020,1500,2500,2000
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,12/03/2020,1500,2400,1900
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,13/03/2020,1500,2200,1850
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,14/03/2020,1500,2200,1900
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,15/03/2020,1200,2200,1800
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,17/03/2020,1200,2200,1700
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,18/03/2020,1000,2000,1600
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,19/03/2020,1000,2000,1500
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,20/03/2020,1000,2000,1600
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,05/04/2020,1800,2000,1900
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,06/04/2020,1700,2200,1900
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,07/04/2020,1600,2200,1900
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,08/04/2020,1600,2200,1900
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,09/04/2020,1400,1700,1600
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,10/04/2020,1400,1700,1600
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,11/04/2020,800,1600,1400
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,12/04/2020,1200,1600,1500
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,13/04/2020,1200,1600,1450
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,14/04/2020,1200,1700,1600
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,15/04/2020,1200,1600,1500
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,16/04/2020,1200,1700,1600
+Rajasthan,Ajmer,Ajmer(F&V),Onion,Other,17/04/2020,1300,1600,1500
+Tripura,North Tripura,Panisagar,Onion,Red,20/02/2020,3300,3500,3400
+Tripura,North Tripura,Panisagar,Onion,Red,21/02/2020,3200,3400,3300
+Tripura,North Tripura,Panisagar,Onion,Red,22/02/2020,3200,3400,3300
+Tripura,North Tripura,Panisagar,Onion,Red,23/02/2020,3000,3200,3100
+Tripura,North Tripura,Panisagar,Onion,Red,24/02/2020,3000,3200,3100
+Tripura,North Tripura,Panisagar,Onion,Red,25/02/2020,3100,3300,3200
+Tripura,North Tripura,Panisagar,Onion,Red,01/03/2020,2300,2500,2400
+Tripura,North Tripura,Panisagar,Onion,Red,02/03/2020,2300,2500,2400
+Tripura,North Tripura,Panisagar,Onion,Red,03/03/2020,2300,2500,2400
+Tripura,North Tripura,Panisagar,Onion,Red,04/03/2020,2300,2500,2400
+Tripura,North Tripura,Panisagar,Onion,Red,05/03/2020,2300,2500,2400
+Tripura,North Tripura,Panisagar,Onion,Red,06/03/2020,2300,2500,2400
+Tripura,North Tripura,Panisagar,Onion,Red,07/03/2020,2200,2400,2300
+Tripura,North Tripura,Panisagar,Onion,Red,08/03/2020,2200,2400,2300
+Tripura,North Tripura,Panisagar,Onion,Red,09/03/2020,2200,2400,2300
+Tripura,North Tripura,Panisagar,Onion,Red,10/03/2020,2200,2400,2300
+Tripura,North Tripura,Panisagar,Onion,Red,11/03/2020,2400,2600,2500
+Tripura,North Tripura,Panisagar,Onion,Red,12/03/2020,2400,2600,2500
+Tripura,North Tripura,Panisagar,Onion,Red,13/03/2020,2400,2600,2500
+Tripura,North Tripura,Panisagar,Onion,Red,14/03/2020,2300,2500,2400
+Tripura,North Tripura,Panisagar,Onion,Red,15/03/2020,2300,2500,2400
+Tripura,North Tripura,Panisagar,Onion,Red,16/03/2020,2300,2500,2400
+Tripura,North Tripura,Panisagar,Onion,Red,17/03/2020,2100,2300,2200
+Tripura,North Tripura,Panisagar,Onion,Red,18/03/2020,2100,2300,2200
+Tripura,North Tripura,Panisagar,Onion,Red,19/03/2020,2100,2300,2200
+Tripura,North Tripura,Panisagar,Onion,Red,20/03/2020,2100,2300,2200
+Tripura,North Tripura,Panisagar,Onion,Red,21/03/2020,2100,2300,2200
+Tripura,North Tripura,Panisagar,Onion,Red,23/03/2020,2200,2400,2300
+Tripura,North Tripura,Panisagar,Onion,Red,24/03/2020,2100,2300,2200
+Tripura,North Tripura,Panisagar,Onion,Red,25/03/2020,2700,2900,2800
+Tripura,North Tripura,Panisagar,Onion,Red,26/03/2020,2900,3100,3000
+Tripura,North Tripura,Panisagar,Onion,Red,27/03/2020,2400,2600,2500
+Tripura,North Tripura,Panisagar,Onion,Red,28/03/2020,2500,2700,2600
+Tripura,North Tripura,Panisagar,Onion,Red,29/03/2020,2800,3000,2900
+Tripura,North Tripura,Panisagar,Onion,Red,30/03/2020,2800,3000,2900
+Tripura,North Tripura,Panisagar,Onion,Red,01/04/2020,2450,2650,2550
+Tripura,North Tripura,Panisagar,Onion,Red,02/04/2020,2550,2750,2650
+Tripura,North Tripura,Panisagar,Onion,Red,05/04/2020,2200,2400,2300
+Tripura,North Tripura,Panisagar,Onion,Red,06/04/2020,2100,2300,2200
+Tripura,North Tripura,Panisagar,Onion,Red,07/04/2020,2100,2200,2150
+Tripura,North Tripura,Panisagar,Onion,Red,08/04/2020,2200,2400,2300
+Tripura,North Tripura,Panisagar,Onion,Red,09/04/2020,2200,2400,2300
+Tripura,North Tripura,Panisagar,Onion,Red,10/04/2020,2200,2400,2300
+Tripura,North Tripura,Panisagar,Onion,Red,11/04/2020,2200,2400,2300
+Tripura,North Tripura,Panisagar,Onion,Red,12/04/2020,2100,2300,2200
+Tripura,North Tripura,Panisagar,Onion,Red,13/04/2020,2100,2400,2200
+Tripura,North Tripura,Panisagar,Onion,Red,14/04/2020,2200,2400,2300
+Tripura,North Tripura,Panisagar,Onion,Red,15/04/2020,2200,2400,2300
+Tripura,North Tripura,Panisagar,Onion,Red,16/04/2020,2000,2200,2100
+Tripura,North Tripura,Panisagar,Onion,Red,17/04/2020,2000,2200,2100
+Tripura,North Tripura,Panisagar,Onion,Red,18/04/2020,2100,2300,2200
+Uttar Pradesh,Agra,Achnera,Onion,Red,21/02/2020,2600,2700,2650
+Uttar Pradesh,Agra,Achnera,Onion,Red,22/02/2020,2400,2500,2450
+Uttar Pradesh,Agra,Achnera,Onion,Red,23/02/2020,2200,2400,2300
+Uttar Pradesh,Agra,Achnera,Onion,Red,24/02/2020,2000,2200,2100
+Uttar Pradesh,Agra,Achnera,Onion,Red,25/02/2020,2050,2130,2090
+Uttar Pradesh,Agra,Achnera,Onion,Red,26/02/2020,2000,2080,2040
+Uttar Pradesh,Agra,Achnera,Onion,Red,28/02/2020,2050,2150,2100
+Uttar Pradesh,Agra,Achnera,Onion,Red,29/02/2020,2100,2200,2150
+Uttar Pradesh,Agra,Achnera,Onion,Red,01/03/2020,2100,2200,2150
+Uttar Pradesh,Agra,Achnera,Onion,Red,02/03/2020,2100,2200,2150
+Uttar Pradesh,Agra,Achnera,Onion,Red,03/03/2020,2120,2220,2170
+Uttar Pradesh,Agra,Achnera,Onion,Red,04/03/2020,2100,2200,2150
+Uttar Pradesh,Agra,Achnera,Onion,Red,06/03/2020,2100,2200,2150
+Uttar Pradesh,Agra,Achnera,Onion,Red,07/03/2020,2000,2100,2050
+Uttar Pradesh,Agra,Achnera,Onion,Red,08/03/2020,2100,2200,2150
+Uttar Pradesh,Agra,Achnera,Onion,Red,09/03/2020,2050,2150,2100
+Uttar Pradesh,Agra,Achnera,Onion,Red,13/03/2020,2050,2090,2070
+Uttar Pradesh,Agra,Achnera,Onion,Red,14/03/2020,2000,2100,2050
+Uttar Pradesh,Agra,Achnera,Onion,Red,15/03/2020,2050,2150,2100
+Uttar Pradesh,Agra,Achnera,Onion,Red,16/03/2020,2000,2100,2050
+Uttar Pradesh,Agra,Achnera,Onion,Red,17/03/2020,2040,2120,2080
+Uttar Pradesh,Agra,Achnera,Onion,Red,18/03/2020,2000,2080,2040
+Uttar Pradesh,Agra,Achnera,Onion,Red,20/03/2020,1950,2050,2000
+Uttar Pradesh,Agra,Achnera,Onion,Red,21/03/2020,1900,2000,1950
+Uttar Pradesh,Agra,Achnera,Onion,Red,24/03/2020,1650,1750,1700
+Uttar Pradesh,Agra,Achnera,Onion,Red,25/03/2020,1750,1850,1800
+Uttar Pradesh,Agra,Achnera,Onion,Red,27/03/2020,2100,2200,2150
+Uttar Pradesh,Agra,Achnera,Onion,Red,28/03/2020,1950,2050,2000
+Uttar Pradesh,Agra,Achnera,Onion,Red,29/03/2020,1950,2050,2000
+Uttar Pradesh,Agra,Achnera,Onion,Red,30/03/2020,1850,1950,1900
+Uttar Pradesh,Agra,Achnera,Onion,Red,31/03/2020,1850,1950,1900
+Uttar Pradesh,Agra,Achnera,Onion,Red,01/04/2020,1750,1850,1800
+Uttar Pradesh,Agra,Achnera,Onion,Red,03/04/2020,1750,1850,1800
+Uttar Pradesh,Agra,Achnera,Onion,Red,04/04/2020,1800,1900,1850
+Uttar Pradesh,Agra,Achnera,Onion,Red,05/04/2020,1750,1850,1800
+Uttar Pradesh,Agra,Achnera,Onion,Red,06/04/2020,1760,1860,1810
+Uttar Pradesh,Agra,Achnera,Onion,Red,07/04/2020,1750,1850,1800
+Uttar Pradesh,Agra,Achnera,Onion,Red,08/04/2020,1800,1900,1850
+Uttar Pradesh,Agra,Achnera,Onion,Red,10/04/2020,1800,1900,1850
+Uttar Pradesh,Agra,Achnera,Onion,Red,11/04/2020,1800,1900,1850
+Uttar Pradesh,Agra,Achnera,Onion,Red,12/04/2020,1800,1900,1850
+Uttar Pradesh,Agra,Achnera,Onion,Red,13/04/2020,1800,1900,1850
+Uttar Pradesh,Agra,Achnera,Onion,Red,14/04/2020,1750,1850,1800
+Uttar Pradesh,Agra,Achnera,Onion,Red,15/04/2020,1800,1900,1850
+Uttar Pradesh,Agra,Achnera,Onion,Red,17/04/2020,1500,1600,1550
+Uttar Pradesh,Agra,Achnera,Onion,Red,18/04/2020,1300,1400,1350
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,20/02/2020,1600,2500,2000
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,21/02/2020,1700,2550,2400
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,22/02/2020,1800,2500,2250
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,24/02/2020,1800,2500,2200
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,25/02/2020,1800,2500,2200
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,26/02/2020,1600,2500,2000
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,27/02/2020,1500,2400,2000
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,29/02/2020,1500,2400,2000
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,04/03/2020,2000,2500,2200
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,05/03/2020,2000,2550,2200
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,06/03/2020,1800,2400,2000
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,07/03/2020,1600,2400,1800
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,09/03/2020,1650,2400,1800
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,11/03/2020,1500,2480,1850
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,12/03/2020,1500,2400,1800
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,16/03/2020,1600,2400,1800
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,17/03/2020,1500,2400,1800
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,18/03/2020,2000,2600,2450
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,19/03/2020,2200,2550,2400
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,20/03/2020,2000,2600,2400
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,21/03/2020,2000,2600,2300
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,23/03/2020,2000,2600,2300
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,24/03/2020,2000,2500,2200
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,26/03/2020,2000,2800,2300
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,27/03/2020,2200,2800,2500
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,28/03/2020,2400,3000,2800
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,30/03/2020,1800,2200,2000
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,31/03/2020,2000,2400,2200
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,03/04/2020,1200,2000,1500
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,04/04/2020,1800,2200,2000
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,07/04/2020,1900,2500,2250
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,08/04/2020,1500,2000,1800
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,09/04/2020,1500,2600,2500
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,11/04/2020,1500,2500,1600
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,13/04/2020,1800,2500,2300
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,14/04/2020,1800,2600,2500
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,15/04/2020,2000,2600,2500
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,16/04/2020,1800,2600,2200
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,17/04/2020,1550,2000,1600
+Uttrakhand,Dehradoon,Dehradoon,Onion,Other,18/04/2020,1500,2000,1600
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,20/02/2020,2750,3350,3250
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,21/02/2020,3000,3300,3200
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,22/02/2020,3200,3500,3400
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,23/02/2020,3300,3500,3400
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,24/02/2020,3300,3500,3400
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,25/02/2020,3000,3375,3250
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,27/02/2020,3000,3250,3200
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,01/03/2020,2750,3000,2875
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,02/03/2020,2700,3000,2750
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,03/03/2020,2650,2750,2700
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,04/03/2020,2650,2750,2700
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,05/03/2020,2550,2700,2650
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,06/03/2020,2650,2875,2750
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,10/03/2020,2550,2650,2600
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,11/03/2020,2600,2700,2650
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,13/03/2020,2700,2800,2750
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,14/03/2020,2550,2700,2600
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,15/03/2020,2550,2650,2600
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,16/03/2020,2550,2700,2600
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,18/03/2020,2500,2600,2550
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,19/03/2020,2500,2600,2550
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,20/03/2020,2500,2650,2600
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,21/03/2020,2550,2700,2600
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,26/03/2020,2600,2700,2650
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,27/03/2020,2600,2700,2650
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,28/03/2020,2600,2750,2700
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,29/03/2020,2650,2750,2700
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,30/03/2020,2600,2750,2700
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,31/03/2020,2600,2750,2700
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,02/04/2020,2650,2750,2700
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,05/04/2020,1700,1875,1750
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,06/04/2020,1700,1875,1750
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,07/04/2020,1700,1875,1750
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,08/04/2020,1625,1750,1700
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,09/04/2020,1600,1700,1625
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,10/04/2020,1650,1750,1700
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,11/04/2020,1625,1750,1700
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,12/04/2020,1700,1750,1725
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,13/04/2020,1650,1700,1675
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,14/04/2020,1675,1750,1700
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,15/04/2020,1675,1750,1700
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,16/04/2020,1675,1750,1700
