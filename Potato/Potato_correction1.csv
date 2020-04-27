@@ -1,0 +1,674 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,20/02/2020,1400,1400,1400
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,21/02/2020,1200,1200,1200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,22/02/2020,1300,1300,1300
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,26/02/2020,1700,1700,1700
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,27/02/2020,1700,1700,1700
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,28/02/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,29/02/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,03/01/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,03/03/2020,1500,1500,1500
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,03/04/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,03/05/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,03/06/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,03/07/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,03/11/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,03/12/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,13/03/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,14/03/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,15/03/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,17/03/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,18/03/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,30/03/2020,1800,1800,1800
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,31/03/2020,2200,2200,2200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,04/01/2020,2000,2000,2000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,04/02/2020,2000,2000,2000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,04/03/2020,2000,2000,2000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,04/04/2020,2000,2000,2000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,04/05/2020,1500,1500,1500
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,04/07/2020,1800,1800,1800
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,04/08/2020,1800,1800,1800
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,04/09/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,04/10/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,04/11/2020,1800,1800,1800
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,04/12/2020,1800,1800,1800
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,14/04/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,15/04/2020,1600,1600,1600
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,16/04/2020,2000,2000,2000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,17/04/2020,2000,2000,2000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,18/04/2020,2000,2000,2000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Potato,Potato,19/04/2020,1800,1800,1800
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,24/02/2020,1050,1400,1250
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,25/02/2020,1075,1425,1325
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,26/02/2020,900,1300,1100
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,27/02/2020,1000,1350,1275
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,28/02/2020,1075,1375,1325
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,29/02/2020,1000,1300,1050
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,03/02/2020,900,1300,1100
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,03/03/2020,850,1250,1075
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,03/04/2020,900,1300,1000
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,03/05/2020,850,1200,1000
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,03/06/2020,1000,1400,1200
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,03/07/2020,1000,1200,1150
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,03/09/2020,950,1400,1200
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,03/11/2020,850,1400,1050
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,03/12/2020,1000,1500,1250
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,13/03/2020,1000,1400,1200
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,14/03/2020,1050,1450,1300
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,16/03/2020,900,1350,1100
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,17/03/2020,1000,1350,1150
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,18/03/2020,1000,1300,1100
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,19/03/2020,975,1325,1100
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,20/03/2020,900,1500,1250
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,21/03/2020,925,1525,1250
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,24/03/2020,1000,1400,1250
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,27/03/2020,1500,1750,1600
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,28/03/2020,1250,1500,1400
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,30/03/2020,900,1350,1100
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,31/03/2020,950,1450,1200
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,04/01/2020,1000,1375,1200
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,04/02/2020,1000,1450,1250
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,04/04/2020,1300,1500,1400
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,04/06/2020,1400,1750,1550
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,04/07/2020,1350,1600,1500
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,04/08/2020,1150,1800,1450
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,04/09/2020,1400,1650,1550
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,04/10/2020,500,1250,850
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,04/11/2020,1300,1600,1450
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,13/04/2020,1250,1550,1400
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,14/04/2020,1400,1750,1550
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,15/04/2020,1300,1600,1400
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,16/04/2020,1200,1750,1400
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,17/04/2020,1200,1750,1550
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,18/04/2020,850,1600,1425
+Gujarat,Rajkot,Rajkot(Ghee Peeth),Potato,Desi,20/04/2020,1300,1600,1500
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,20/02/2020,1000,1000,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,21/02/2020,900,1000,900
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,22/02/2020,1000,1000,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,24/02/2020,1000,1000,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,25/02/2020,1000,1000,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,26/02/2020,1000,1000,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,27/02/2020,1000,1000,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,28/02/2020,1000,1100,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,29/02/2020,1000,1150,1150
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,03/01/2020,1000,1200,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,03/02/2020,1000,1200,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,03/03/2020,1000,1100,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,03/04/2020,1000,1200,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,03/05/2020,1000,1200,1200
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,03/06/2020,1000,1300,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,03/07/2020,1000,1400,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,03/08/2020,1000,1400,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,03/09/2020,1000,1500,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,03/11/2020,1000,1400,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,03/12/2020,1000,1400,1000
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,13/03/2020,1000,1400,1400
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,14/03/2020,1500,1500,1500
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,15/03/2020,1500,1500,1500
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,16/03/2020,1500,1500,1500
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,17/03/2020,1500,1600,1600
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,18/03/2020,1500,1600,1500
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,19/03/2020,1500,1600,1500
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,20/03/2020,1500,1600,1500
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,21/03/2020,1600,1700,1700
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,27/03/2020,1600,1700,1600
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,28/03/2020,1600,1700,1600
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,30/03/2020,1600,1700,1600
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,31/03/2020,1600,1600,1600
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,04/03/2020,1700,1700,1700
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,04/05/2020,1300,1600,1300
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,04/06/2020,1300,1700,1300
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,04/07/2020,1300,1600,1300
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,04/08/2020,1300,1700,1300
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,04/09/2020,1300,1600,1300
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,04/10/2020,1300,1500,1300
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,04/11/2020,1300,1600,1300
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,04/12/2020,1300,1500,1300
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,13/04/2020,1300,1500,1300
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,14/04/2020,1300,1550,1300
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,15/04/2020,1400,1600,1400
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,16/04/2020,1500,1600,1500
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,17/04/2020,1500,1600,1500
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,18/04/2020,1500,1600,1500
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,19/04/2020,1500,1600,1500
+Haryana,Yamuna Nagar,Chhachrauli,Potato,Potato,20/04/2020,1500,1600,1500
+Himachal Pradesh,Solan,Solan,Potato,Other,20/02/2020,1000,1200,1200
+Himachal Pradesh,Solan,Solan,Potato,Other,22/02/2020,1000,1200,1100
+Himachal Pradesh,Solan,Solan,Potato,Other,24/02/2020,1000,1200,1100
+Himachal Pradesh,Solan,Solan,Potato,Other,25/02/2020,1000,1200,1100
+Himachal Pradesh,Solan,Solan,Potato,Other,26/02/2020,1000,1200,1100
+Himachal Pradesh,Solan,Solan,Potato,Other,27/02/2020,1000,1700,1100
+Himachal Pradesh,Solan,Solan,Potato,Other,28/02/2020,1000,1800,1200
+Himachal Pradesh,Solan,Solan,Potato,Other,29/02/2020,1000,1500,1200
+Himachal Pradesh,Solan,Solan,Potato,Other,03/03/2020,1200,1500,1400
+Himachal Pradesh,Solan,Solan,Potato,Other,03/04/2020,1300,1500,1400
+Himachal Pradesh,Solan,Solan,Potato,Other,03/05/2020,1300,1600,1400
+Himachal Pradesh,Solan,Solan,Potato,Other,03/06/2020,1300,1600,1400
+Himachal Pradesh,Solan,Solan,Potato,Other,03/07/2020,1300,1600,1400
+Himachal Pradesh,Solan,Solan,Potato,Other,03/09/2020,1400,1600,1500
+Himachal Pradesh,Solan,Solan,Potato,Other,03/11/2020,1400,1600,1500
+Himachal Pradesh,Solan,Solan,Potato,Other,03/12/2020,1400,1800,1600
+Himachal Pradesh,Solan,Solan,Potato,Other,13/03/2020,1500,1800,1600
+Himachal Pradesh,Solan,Solan,Potato,Other,16/03/2020,1600,1800,1700
+Himachal Pradesh,Solan,Solan,Potato,Other,17/03/2020,1600,1800,1700
+Himachal Pradesh,Solan,Solan,Potato,Other,18/03/2020,1600,1800,1700
+Himachal Pradesh,Solan,Solan,Potato,Other,19/03/2020,1600,1800,1700
+Himachal Pradesh,Solan,Solan,Potato,Other,20/03/2020,1600,1700,1600
+Himachal Pradesh,Solan,Solan,Potato,Other,23/03/2020,1800,2000,2000
+Himachal Pradesh,Solan,Solan,Potato,Other,26/03/2020,2000,2500,2400
+Himachal Pradesh,Solan,Solan,Potato,Other,30/03/2020,1800,2200,2000
+Himachal Pradesh,Solan,Solan,Potato,Other,04/02/2020,1800,2200,2000
+Himachal Pradesh,Solan,Solan,Potato,Other,04/03/2020,1800,2300,2200
+Himachal Pradesh,Solan,Solan,Potato,Other,04/04/2020,1800,2300,2200
+Himachal Pradesh,Solan,Solan,Potato,Other,04/05/2020,1800,2300,2200
+Himachal Pradesh,Solan,Solan,Potato,Other,04/06/2020,1800,2300,2200
+Himachal Pradesh,Solan,Solan,Potato,Other,04/07/2020,1800,2300,2200
+Himachal Pradesh,Solan,Solan,Potato,Other,04/08/2020,1800,2300,2200
+Himachal Pradesh,Solan,Solan,Potato,Other,04/09/2020,1800,2300,2200
+Himachal Pradesh,Solan,Solan,Potato,Other,04/11/2020,1600,1800,1700
+Himachal Pradesh,Solan,Solan,Potato,Other,04/12/2020,1500,1600,1600
+Himachal Pradesh,Solan,Solan,Potato,Other,13/04/2020,1600,1700,1600
+Himachal Pradesh,Solan,Solan,Potato,Other,14/04/2020,1600,1800,1700
+Himachal Pradesh,Solan,Solan,Potato,Other,16/04/2020,1400,1600,1500
+Himachal Pradesh,Solan,Solan,Potato,Other,17/04/2020,1400,1500,1500
+Himachal Pradesh,Solan,Solan,Potato,Other,18/04/2020,1200,1500,1400
+Himachal Pradesh,Solan,Solan,Potato,Other,19/04/2020,1300,1700,1500
+Himachal Pradesh,Solan,Solan,Potato,Other,20/04/2020,1200,1600,1500
+Jharkhand,Ranchi,Khunti,Potato,Other,22/02/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Potato,Other,28/02/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Potato,Other,03/04/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Potato,Other,03/05/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Potato,Other,03/06/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Potato,Other,03/08/2020,1400,1800,1600
+Jharkhand,Ranchi,Khunti,Potato,Other,03/11/2020,1400,1800,1600
+Jharkhand,Ranchi,Khunti,Potato,Other,03/12/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Potato,Other,14/03/2020,1400,1800,1600
+Jharkhand,Ranchi,Khunti,Potato,Other,15/03/2020,1450,1850,1650
+Jharkhand,Ranchi,Khunti,Potato,Other,17/03/2020,1400,1800,1600
+Jharkhand,Ranchi,Khunti,Potato,Other,20/03/2020,1470,1870,1670
+Jharkhand,Ranchi,Khunti,Potato,Other,21/03/2020,1600,2000,1800
+Jharkhand,Ranchi,Khunti,Potato,Other,26/03/2020,1850,2250,2050
+Jharkhand,Ranchi,Khunti,Potato,Other,27/03/2020,1750,1950,1850
+Jharkhand,Ranchi,Khunti,Potato,Other,28/03/2020,1800,2000,1900
+Jharkhand,Ranchi,Khunti,Potato,Other,29/03/2020,2450,2850,2650
+Jharkhand,Ranchi,Khunti,Potato,Other,31/03/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Potato,Other,04/01/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Potato,Other,04/03/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Potato,Other,04/04/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Potato,Other,04/06/2020,1800,2200,2000
+Jharkhand,Ranchi,Khunti,Potato,Other,04/09/2020,1600,2000,1800
+Jharkhand,Ranchi,Khunti,Potato,Other,04/10/2020,1650,2050,1850
+Jharkhand,Ranchi,Khunti,Potato,Other,13/04/2020,1600,2000,1800
+Jharkhand,Ranchi,Khunti,Potato,Other,17/04/2020,1450,1650,1550
+Jharkhand,Ranchi,Khunti,Potato,Other,19/04/2020,1600,2000,1800
+Karnataka,Kolar,Malur,Potato,Potato,20/02/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,24/02/2020,1800,2300,2000
+Karnataka,Kolar,Malur,Potato,Potato,25/02/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,26/02/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,27/02/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,28/02/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,29/02/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,03/02/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,03/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,03/04/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,03/05/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,03/06/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,03/07/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,03/09/2020,1700,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,03/10/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,03/11/2020,1800,2300,2000
+Karnataka,Kolar,Malur,Potato,Potato,03/12/2020,1800,2300,2000
+Karnataka,Kolar,Malur,Potato,Potato,13/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,16/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,17/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,18/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,19/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,20/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,21/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,22/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,23/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,24/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,26/03/2020,1800,2300,2000
+Karnataka,Kolar,Malur,Potato,Potato,30/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,31/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,04/01/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,04/02/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,04/03/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,04/04/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,04/05/2020,1900,2300,2000
+Karnataka,Kolar,Malur,Potato,Potato,04/06/2020,1900,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,04/07/2020,1800,2300,2000
+Karnataka,Kolar,Malur,Potato,Potato,04/08/2020,1800,2300,2000
+Karnataka,Kolar,Malur,Potato,Potato,04/09/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,04/10/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,04/11/2020,1800,2300,2024
+Karnataka,Kolar,Malur,Potato,Potato,04/12/2020,1800,2700,2634
+Karnataka,Kolar,Malur,Potato,Potato,13/04/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,14/04/2020,1800,2300,2000
+Karnataka,Kolar,Malur,Potato,Potato,15/04/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,16/04/2020,1800,2400,2000
+Karnataka,Kolar,Malur,Potato,Potato,17/04/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,18/04/2020,1800,2200,2000
+Karnataka,Kolar,Malur,Potato,Potato,19/04/2020,1800,2300,2000
+Karnataka,Kolar,Malur,Potato,Potato,20/04/2020,1800,2300,2000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,24/02/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,25/02/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,26/02/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,27/02/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,28/02/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,29/02/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,03/01/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,03/02/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,03/03/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,03/04/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,03/05/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,03/07/2020,2800,3000,3000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,03/08/2020,2800,3000,3000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,03/09/2020,2800,3000,3000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,03/10/2020,2800,3000,3000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,03/11/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,03/12/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,13/03/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,14/03/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,15/03/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,16/03/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,17/03/2020,3000,3200,3200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,18/03/2020,2800,3000,3000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,19/03/2020,2800,3000,3000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,20/03/2020,2800,3000,3000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,22/03/2020,2700,3000,3000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,23/03/2020,3200,3400,3400
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,24/03/2020,3200,3400,3400
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,31/03/2020,4200,4500,4500
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,04/01/2020,4000,4200,4200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,04/02/2020,4000,4200,4200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,04/03/2020,4000,4200,4200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,04/04/2020,4000,4200,4200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,04/05/2020,4000,4200,4200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,04/06/2020,4000,4200,4200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,04/07/2020,3800,4200,4200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,04/08/2020,3800,4200,4200
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,04/09/2020,3800,4000,4000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,04/10/2020,3800,4000,4000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,04/11/2020,3800,4000,4000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,04/12/2020,3800,4000,4000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,13/04/2020,3800,4000,4000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,14/04/2020,3800,4000,4000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,15/04/2020,3800,4000,4000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,16/04/2020,3800,4000,4000
+Kerala,Thirssur,Wadakkanchery,Potato,Potato,17/04/2020,3800,4000,4000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,20/02/2020,600,1000,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,22/02/2020,800,800,800
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,23/02/2020,1000,1000,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,24/02/2020,1000,1000,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,25/02/2020,800,1000,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,26/02/2020,800,800,800
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,27/02/2020,800,800,800
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,28/02/2020,800,800,800
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,29/02/2020,1000,1200,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,03/03/2020,800,800,800
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,03/04/2020,700,1100,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,03/05/2020,800,800,800
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,03/06/2020,800,1200,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,03/07/2020,800,800,800
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,03/09/2020,1000,1200,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,03/12/2020,1000,1000,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,13/03/2020,1000,1200,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,14/03/2020,800,1200,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,15/03/2020,1000,1200,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,16/03/2020,800,900,900
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,17/03/2020,700,1000,800
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,18/03/2020,700,1000,800
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,19/03/2020,800,1000,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,20/03/2020,800,1000,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,21/03/2020,800,900,900
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,28/03/2020,840,1200,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,29/03/2020,940,1333,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,30/03/2020,1000,1200,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,31/03/2020,960,1200,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,04/05/2020,1100,1100,1100
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,04/06/2020,1000,1000,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,04/07/2020,1200,1200,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,04/08/2020,1000,1000,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,04/10/2020,1200,1200,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,04/11/2020,1200,1200,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,04/12/2020,1200,1200,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,13/04/2020,1200,1200,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,14/04/2020,1100,1100,1100
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,15/04/2020,1000,1000,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,16/04/2020,1200,1200,1200
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,17/04/2020,1000,1000,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,18/04/2020,1000,1000,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,19/04/2020,1000,1000,1000
+Madhya Pradesh,Morena,Morena(F&V),Potato,Potato,20/04/2020,1000,1000,1000
+Odisha,Sundergarh,Bonai,Potato,Other,20/02/2020,2200,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,21/02/2020,2000,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,22/02/2020,2000,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,23/02/2020,2000,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,24/02/2020,2200,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,25/02/2020,2200,2500,2200
+Odisha,Sundergarh,Bonai,Potato,Other,26/02/2020,2200,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,28/02/2020,2200,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,29/02/2020,2000,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,03/03/2020,2200,2500,2200
+Odisha,Sundergarh,Bonai,Potato,Other,03/06/2020,2000,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,03/07/2020,2200,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,03/09/2020,2200,2500,2200
+Odisha,Sundergarh,Bonai,Potato,Other,03/12/2020,2000,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,13/03/2020,2200,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,15/03/2020,2200,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,20/03/2020,2000,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,21/03/2020,2000,2000,2000
+Odisha,Sundergarh,Bonai,Potato,Other,23/03/2020,2200,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,24/03/2020,2200,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,25/03/2020,2200,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,26/03/2020,2200,2500,2200
+Odisha,Sundergarh,Bonai,Potato,Other,27/03/2020,2200,2500,2500
+Odisha,Sundergarh,Bonai,Potato,Other,28/03/2020,2500,2500,2500
+Odisha,Sundergarh,Bonai,Potato,Other,29/03/2020,2200,2500,2500
+Odisha,Sundergarh,Bonai,Potato,Other,30/03/2020,3000,3000,3000
+Odisha,Sundergarh,Bonai,Potato,Other,04/05/2020,2200,2500,2200
+Odisha,Sundergarh,Bonai,Potato,Other,04/06/2020,3000,3000,3000
+Odisha,Sundergarh,Bonai,Potato,Other,04/07/2020,2000,2000,2000
+Odisha,Sundergarh,Bonai,Potato,Other,04/09/2020,2000,2000,2000
+Odisha,Sundergarh,Bonai,Potato,Other,04/10/2020,2000,2000,2000
+Odisha,Sundergarh,Bonai,Potato,Other,04/11/2020,2200,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,04/12/2020,2500,2500,2500
+Odisha,Sundergarh,Bonai,Potato,Other,14/04/2020,2000,2000,2000
+Odisha,Sundergarh,Bonai,Potato,Other,15/04/2020,2000,2000,2000
+Odisha,Sundergarh,Bonai,Potato,Other,16/04/2020,2000,2000,2000
+Odisha,Sundergarh,Bonai,Potato,Other,17/04/2020,2200,2500,2200
+Odisha,Sundergarh,Bonai,Potato,Other,18/04/2020,2200,2200,2200
+Odisha,Sundergarh,Bonai,Potato,Other,19/04/2020,2000,2000,2000
+Odisha,Sundergarh,Bonai,Potato,Other,20/04/2020,2000,2500,2500
+Punjab,Tarntaran,Patti,Potato,Other,20/02/2020,600,750,700
+Punjab,Tarntaran,Patti,Potato,Other,21/02/2020,600,700,650
+Punjab,Tarntaran,Patti,Potato,Other,22/02/2020,600,800,700
+Punjab,Tarntaran,Patti,Potato,Other,23/02/2020,600,700,700
+Punjab,Tarntaran,Patti,Potato,Other,24/02/2020,500,600,600
+Punjab,Tarntaran,Patti,Potato,Other,25/02/2020,600,800,700
+Punjab,Tarntaran,Patti,Potato,Other,26/02/2020,500,700,600
+Punjab,Tarntaran,Patti,Potato,Other,27/02/2020,700,800,750
+Punjab,Tarntaran,Patti,Potato,Other,28/02/2020,600,800,700
+Punjab,Tarntaran,Patti,Potato,Other,29/02/2020,600,800,700
+Punjab,Tarntaran,Patti,Potato,Other,03/01/2020,600,800,700
+Punjab,Tarntaran,Patti,Potato,Other,03/02/2020,600,800,700
+Punjab,Tarntaran,Patti,Potato,Other,03/03/2020,600,800,700
+Punjab,Tarntaran,Patti,Potato,Other,03/04/2020,700,800,700
+Punjab,Tarntaran,Patti,Potato,Other,03/05/2020,700,800,800
+Punjab,Tarntaran,Patti,Potato,Other,03/06/2020,600,700,700
+Punjab,Tarntaran,Patti,Potato,Other,03/07/2020,600,800,700
+Punjab,Tarntaran,Patti,Potato,Other,03/08/2020,600,700,700
+Punjab,Tarntaran,Patti,Potato,Other,03/09/2020,600,700,700
+Punjab,Tarntaran,Patti,Potato,Other,03/10/2020,600,800,700
+Punjab,Tarntaran,Patti,Potato,Other,03/11/2020,700,800,800
+Punjab,Tarntaran,Patti,Potato,Other,03/12/2020,600,800,700
+Punjab,Tarntaran,Patti,Potato,Other,13/03/2020,700,800,700
+Punjab,Tarntaran,Patti,Potato,Other,14/03/2020,700,800,700
+Punjab,Tarntaran,Patti,Potato,Other,15/03/2020,600,1000,800
+Punjab,Tarntaran,Patti,Potato,Other,16/03/2020,700,800,750
+Punjab,Tarntaran,Patti,Potato,Other,17/03/2020,700,800,700
+Punjab,Tarntaran,Patti,Potato,Other,18/03/2020,700,800,700
+Punjab,Tarntaran,Patti,Potato,Other,19/03/2020,600,800,700
+Punjab,Tarntaran,Patti,Potato,Other,20/03/2020,600,800,700
+Punjab,Tarntaran,Patti,Potato,Other,21/03/2020,700,900,800
+Punjab,Tarntaran,Patti,Potato,Other,22/03/2020,1200,1600,1400
+Punjab,Tarntaran,Patti,Potato,Other,23/03/2020,1500,1600,1600
+Punjab,Tarntaran,Patti,Potato,Other,28/03/2020,800,900,850
+Punjab,Tarntaran,Patti,Potato,Other,29/03/2020,800,1000,900
+Punjab,Tarntaran,Patti,Potato,Other,31/03/2020,800,900,850
+Punjab,Tarntaran,Patti,Potato,Other,04/02/2020,800,1000,900
+Punjab,Tarntaran,Patti,Potato,Other,04/03/2020,700,1000,800
+Punjab,Tarntaran,Patti,Potato,Other,04/04/2020,1400,1600,1500
+Punjab,Tarntaran,Patti,Potato,Other,04/05/2020,800,1000,900
+Punjab,Tarntaran,Patti,Potato,Other,04/06/2020,700,900,800
+Punjab,Tarntaran,Patti,Potato,Other,04/07/2020,700,900,800
+Punjab,Tarntaran,Patti,Potato,Other,04/08/2020,500,700,600
+Punjab,Tarntaran,Patti,Potato,Other,04/09/2020,800,1000,900
+Punjab,Tarntaran,Patti,Potato,Other,04/10/2020,800,900,850
+Punjab,Tarntaran,Patti,Potato,Other,04/11/2020,800,1000,900
+Punjab,Tarntaran,Patti,Potato,Other,04/12/2020,700,800,750
+Punjab,Tarntaran,Patti,Potato,Other,13/04/2020,700,900,800
+Punjab,Tarntaran,Patti,Potato,Other,14/04/2020,800,1000,900
+Punjab,Tarntaran,Patti,Potato,Other,15/04/2020,800,1000,900
+Punjab,Tarntaran,Patti,Potato,Other,17/04/2020,600,800,700
+Punjab,Tarntaran,Patti,Potato,Other,18/04/2020,700,900,800
+Punjab,Tarntaran,Patti,Potato,Other,19/04/2020,600,750,700
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,20/02/2020,1200,1400,1300
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,21/02/2020,1200,1400,1300
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,23/02/2020,1200,1400,1300
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,25/02/2020,1000,1400,1200
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,26/02/2020,1200,1400,1300
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,28/02/2020,1000,1400,1200
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,29/02/2020,1000,1400,1200
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,03/01/2020,1000,1400,1200
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,03/02/2020,1000,1400,1200
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,03/03/2020,500,700,600
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,03/05/2020,1000,1400,1200
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,03/06/2020,1000,1400,1200
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,03/08/2020,1000,1200,1100
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,03/10/2020,1000,1200,1100
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,03/11/2020,1000,1200,1100
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,03/12/2020,1000,1400,1200
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,13/03/2020,1000,1400,1200
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,14/03/2020,800,1200,1000
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,16/03/2020,800,1200,1000
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,17/03/2020,800,1200,1000
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,18/03/2020,800,1200,1000
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,20/03/2020,800,1200,1000
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,22/03/2020,1000,1400,1200
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,24/03/2020,1000,1400,1200
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,25/03/2020,1000,1400,1200
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,26/03/2020,1000,1600,1300
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,27/03/2020,1000,1600,1300
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,28/03/2020,1400,1700,1550
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,29/03/2020,1300,1700,1500
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,30/03/2020,1600,2000,1800
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,31/03/2020,1600,2000,1800
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,04/01/2020,1600,2000,1800
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,04/02/2020,1500,1700,1600
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,04/04/2020,1500,1600,1550
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,04/05/2020,1400,1600,1500
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,04/06/2020,1400,1600,1500
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,04/07/2020,1400,1600,1500
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,04/08/2020,1400,1600,1500
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,04/09/2020,1600,1800,1700
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,04/10/2020,1600,1800,1700
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,04/11/2020,1500,1700,1600
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,04/12/2020,1500,1700,1600
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,13/04/2020,1500,1700,1600
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,14/04/2020,1500,1700,1600
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,15/04/2020,1600,1800,1700
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,16/04/2020,1600,1800,1700
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,17/04/2020,1600,1800,1700
+Rajasthan,Rajasamand,Rajasamand,Potato,Potato,18/04/2020,1600,1800,1700
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,20/02/2020,1680,1720,1700
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,21/02/2020,1660,1720,1700
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,22/02/2020,1620,1650,1625
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,23/02/2020,1620,1710,1660
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,24/02/2020,1650,1710,1660
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,25/02/2020,1620,1710,1660
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,26/02/2020,1620,1660,1650
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,27/02/2020,1620,1650,1630
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,28/02/2020,1600,1660,1620
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,29/02/2020,1260,1310,1280
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,03/01/2020,1220,1250,1230
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,03/02/2020,1320,1330,1325
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,03/03/2020,1560,1580,1575
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,03/04/2020,1520,1580,1560
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,03/05/2020,1520,1580,1560
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,03/06/2020,1520,1580,1560
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,03/07/2020,1525,1580,1550
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,03/08/2020,1510,1580,1560
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,03/09/2020,1520,1540,1530
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,03/10/2020,1520,1560,1530
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,03/11/2020,1460,1525,1480
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,03/12/2020,1520,1550,1530
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,13/03/2020,1520,1560,1530
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,14/03/2020,1520,1575,1560
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,15/03/2020,1520,1560,1530
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,16/03/2020,1460,1560,1520
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,17/03/2020,1420,1480,1460
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,18/03/2020,1420,1520,1460
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,19/03/2020,1420,1510,1460
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,20/03/2020,1450,1510,1460
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,21/03/2020,1420,1520,1460
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,25/03/2020,1520,1620,1560
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,26/03/2020,1600,1650,1620
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,27/03/2020,1560,1620,1580
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,28/03/2020,1620,1720,1660
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,29/03/2020,1620,1710,1660
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,30/03/2020,1710,1820,1760
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,31/03/2020,1720,1760,1750
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,04/01/2020,1720,1810,1760
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,04/02/2020,1800,1820,1810
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,04/03/2020,1780,1860,1820
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,04/04/2020,1810,1860,1820
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,04/06/2020,1820,1860,1825
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,04/07/2020,1810,1920,1860
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,04/08/2020,1860,1920,1880
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,04/10/2020,1860,1910,1880
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,04/11/2020,1860,1900,1875
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,13/04/2020,1860,1910,1880
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,14/04/2020,1860,1910,1875
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,15/04/2020,1850,1910,1860
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,16/04/2020,1860,1920,1900
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,17/04/2020,1850,1910,1860
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,18/04/2020,1820,1910,1860
+Tripura,Unokoti,Pabiacherra,Potato,Jyoti,20/04/2020,1820,1900,1860
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,20/02/2020,1060,1080,1070
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,21/02/2020,1030,1050,1040
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,22/02/2020,1015,1035,1025
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,25/02/2020,1040,1060,1050
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,27/02/2020,1070,1090,1080
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,28/02/2020,1065,1085,1075
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,29/02/2020,1090,1110,1100
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,03/05/2020,1140,1160,1150
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,03/06/2020,1135,1155,1145
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,03/07/2020,1160,1180,1170
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,03/08/2020,1190,1210,1200
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,03/11/2020,1200,1220,1210
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,03/12/2020,1185,1215,1200
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,13/03/2020,1200,1220,1210
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,14/03/2020,1240,1260,1250
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,15/03/2020,1250,1270,1260
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,16/03/2020,1230,1250,1240
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,17/03/2020,1270,1290,1280
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,19/03/2020,1310,1330,1320
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,20/03/2020,1380,1400,1390
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,21/03/2020,1340,1360,1350
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,23/03/2020,1370,1390,1380
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,24/03/2020,1320,1340,1330
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,30/03/2020,1990,2010,2000
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,31/03/2020,1990,2020,2000
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,04/02/2020,1880,1900,1890
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,04/03/2020,1610,1630,1620
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,04/04/2020,1570,1590,1580
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,04/05/2020,1540,1560,1550
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,04/06/2020,1565,1585,1575
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,04/07/2020,1550,1570,1560
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,04/09/2020,1515,1535,1525
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,04/10/2020,1520,1540,1530
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,04/11/2020,1515,1535,1525
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,04/12/2020,1500,1520,1510
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,13/04/2020,1480,1500,1490
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,14/04/2020,1480,1500,1490
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,16/04/2020,1480,1500,1490
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,17/04/2020,1465,1485,1475
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,18/04/2020,1475,1495,1485
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,19/04/2020,1480,1500,1490
+Uttar Pradesh,Siddharth Nagar,Soharatgarh,Potato,Red,20/04/2020,1480,1500,1490
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,20/02/2020,800,1100,1000
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,21/02/2020,850,1050,900
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,22/02/2020,800,1200,1050
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,24/02/2020,800,1100,1000
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,25/02/2020,800,1100,1000
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,26/02/2020,800,1200,1000
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,27/02/2020,800,1100,1000
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,29/02/2020,800,1100,950
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,03/04/2020,700,1200,900
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,03/05/2020,700,1050,850
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,03/06/2020,700,1100,800
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,03/07/2020,750,1200,850
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,03/09/2020,800,1400,1000
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,03/11/2020,750,1300,1000
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,03/12/2020,700,1300,900
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,13/03/2020,750,1300,900
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,14/03/2020,800,1400,1100
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,16/03/2020,1000,1550,1200
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,17/03/2020,1000,1600,1200
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,18/03/2020,1200,1600,1450
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,19/03/2020,1400,1600,1450
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,20/03/2020,1200,1600,1500
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,21/03/2020,1200,1600,1550
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,23/03/2020,1500,1650,1600
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,24/03/2020,1500,1700,1600
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,25/03/2020,1800,2200,2000
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,26/03/2020,1600,2000,1750
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,27/03/2020,1800,2200,2000
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,28/03/2020,2000,2600,2400
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,30/03/2020,1800,2400,2000
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,31/03/2020,1800,2400,2000
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,04/03/2020,1000,1500,1200
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,04/04/2020,1600,1800,1700
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,04/06/2020,1600,2000,1800
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,04/07/2020,1500,2000,1850
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,04/08/2020,1500,2000,1600
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,04/09/2020,1400,2000,1600
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,04/10/2020,1500,2200,1700
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,04/11/2020,1500,2000,1700
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,13/04/2020,1600,2200,2000
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,14/04/2020,2000,2300,2200
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,15/04/2020,2000,2400,2200
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,16/04/2020,1600,2500,2000
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,17/04/2020,1500,2000,1800
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,18/04/2020,1500,2000,1800
+Uttrakhand,Dehradoon,Dehradoon,Potato,Other,20/04/2020,1200,2000,1500
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,20/02/2020,1375,1420,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,22/02/2020,1370,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,23/02/2020,1370,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,24/02/2020,1370,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,25/02/2020,1370,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,26/02/2020,1370,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,28/02/2020,1350,1430,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,29/02/2020,1350,1430,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,03/03/2020,1375,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,03/04/2020,1375,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,03/05/2020,1375,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,03/06/2020,1375,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,03/08/2020,1370,1420,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,03/09/2020,1370,1420,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,03/10/2020,1370,1420,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,03/11/2020,1370,1420,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,03/12/2020,1370,1420,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,13/03/2020,1370,1420,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,14/03/2020,1375,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,15/03/2020,1375,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,16/03/2020,1375,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,17/03/2020,1375,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,18/03/2020,1325,1375,1350
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,19/03/2020,1325,1375,1350
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,20/03/2020,1325,1375,1350
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,27/03/2020,1475,1515,1500
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,28/03/2020,1475,1515,1500
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,29/03/2020,1425,1475,1450
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,30/03/2020,1575,1620,1600
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,31/03/2020,1425,1475,1450
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,04/02/2020,1375,1420,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,04/03/2020,1375,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,04/04/2020,1375,1425,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,04/05/2020,1225,1270,1250
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,04/06/2020,1225,1270,1250
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,04/08/2020,1225,1275,1250
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,04/09/2020,1225,1275,1250
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,04/10/2020,1280,1310,1300
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,04/11/2020,1275,1315,1300
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,04/12/2020,1275,1315,1300
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,13/04/2020,1275,1320,1300
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,14/04/2020,1275,1315,1300
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,15/04/2020,1375,1420,1400
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,16/04/2020,1560,1620,1600
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,17/04/2020,1570,1620,1600
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,18/04/2020,1570,1620,1600
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,19/04/2020,1575,1625,1600
+West Bengal,Uttar Dinajpur,Islampur,Potato,Jyoti,20/04/2020,1575,1620,1600
