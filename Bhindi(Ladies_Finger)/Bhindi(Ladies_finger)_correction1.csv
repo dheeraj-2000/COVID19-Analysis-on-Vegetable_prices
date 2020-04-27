@@ -1,0 +1,530 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,20/02/2020,5000,5500,5250
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,22/02/2020,3000,5000,4000
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,23/02/2020,4000,4500,4250
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,25/02/2020,3500,4500,4000
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,26/02/2020,4500,5000,4750
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,27/02/2020,3000,3500,3250
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,28/02/2020,3200,3600,3400
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,01/03/2020,2700,3000,2850
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,03/03/2020,2500,3000,2750
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,04/03/2020,2600,3000,2800
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,05/03/2020,3000,3500,3250
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,06/03/2020,3000,5000,4000
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,07/03/2020,3200,3600,3400
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,09/03/2020,3200,3400,3300
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,12/03/2020,3000,3500,3250
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,13/03/2020,3000,3500,3250
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,14/03/2020,3000,3500,3250
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,15/03/2020,3200,3600,3400
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,17/03/2020,3000,3500,3250
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,18/03/2020,3200,3600,3400
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,19/03/2020,2500,3000,2750
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,20/03/2020,2600,3000,2800
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,21/03/2020,2800,3000,2900
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,24/03/2020,2000,2500,2250
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,25/03/2020,2000,2200,2100
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,26/03/2020,2500,3500,3000
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,27/03/2020,2600,3000,2800
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,28/03/2020,1500,2500,2000
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,29/03/2020,1300,1500,1400
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,31/03/2020,1000,1200,1100
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,01/04/2020,1200,1300,1250
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,02/04/2020,1000,1200,1100
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,03/04/2020,800,1200,1000
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,04/04/2020,1000,1200,1100
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,05/04/2020,1000,1500,1250
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,07/04/2020,1000,1200,1100
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,08/04/2020,800,1200,1000
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,09/04/2020,1000,1200,1100
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,10/04/2020,800,1200,1000
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,11/04/2020,1000,1200,1100
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,12/04/2020,800,1200,1000
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,14/04/2020,1000,1200,1100
+Chattisgarh,Durg,Durg,Bhindi(Ladies Finger),Bhindi,15/04/2020,1000,1500,1250
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,20/02/2020,2000,2500,2300
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,21/02/2020,2000,2500,2400
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,22/02/2020,1500,2000,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,24/02/2020,2500,3000,2750
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,25/02/2020,3000,3500,3400
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,26/02/2020,3000,3500,3300
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,27/02/2020,3000,3500,3300
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,28/02/2020,2500,3000,2800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,29/02/2020,2000,2500,2300
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,02/03/2020,2500,3000,2800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,03/03/2020,2500,3000,2800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,04/03/2020,2500,3000,2800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,05/03/2020,2250,2500,2300
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,06/03/2020,2500,3000,2800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,09/03/2020,2500,3000,2800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,11/03/2020,3000,3500,3400
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,12/03/2020,2500,3000,2800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,13/03/2020,2500,3000,2800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,14/03/2020,2500,3000,2800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,16/03/2020,2500,3000,2800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,17/03/2020,2000,2500,2300
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,18/03/2020,2500,3000,2800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,19/03/2020,2500,3000,2800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,20/03/2020,2500,3000,2800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,21/03/2020,3000,3500,3300
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,23/03/2020,3000,3500,3300
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,24/03/2020,2000,2500,2250
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,25/03/2020,1500,2000,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,26/03/2020,2000,2500,2300
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,27/03/2020,1500,2000,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,28/03/2020,1000,1500,1200
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,30/03/2020,1500,2000,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,31/03/2020,1500,2000,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,01/04/2020,1500,2000,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,02/04/2020,1500,2000,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,03/04/2020,2000,2500,2200
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,04/04/2020,2000,2250,2100
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,06/04/2020,1500,2000,1700
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,07/04/2020,1500,2000,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,08/04/2020,1000,1500,1200
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,09/04/2020,2000,2500,2400
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,10/04/2020,1500,2000,1800
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,11/04/2020,1500,2000,1750
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,13/04/2020,1000,1250,1150
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,14/04/2020,1500,1750,1600
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Bhindi(Ladies Finger),Bhindi,15/04/2020,1250,1500,1400
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,20/02/2020,5000,6000,5300
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,21/02/2020,5000,6000,5300
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,22/02/2020,5000,5000,5000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,24/02/2020,4000,5000,4400
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,25/02/2020,3000,6000,5000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,27/02/2020,4000,6200,5000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,28/02/2020,4500,6000,5500
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,29/02/2020,4600,4600,4600
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,02/03/2020,3000,6000,4500
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,03/03/2020,4000,6000,5000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,04/03/2020,4000,5500,4800
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,05/03/2020,4000,6500,5000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,06/03/2020,2800,5000,4000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,07/03/2020,4500,5000,4700
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,09/03/2020,4000,6000,5000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,10/03/2020,5000,6500,5500
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,11/03/2020,4600,5000,4800
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,12/03/2020,4400,5000,4800
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,13/03/2020,3500,5000,4500
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,14/03/2020,5000,5000,5000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,16/03/2020,5000,7000,6000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,17/03/2020,5000,6500,6000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,18/03/2020,6200,6200,6200
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,19/03/2020,4000,6000,4800
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,20/03/2020,6300,6300,6300
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,21/03/2020,6000,7000,6800
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,24/03/2020,4500,6000,4800
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,26/03/2020,5000,5000,5000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,27/03/2020,6500,7000,6850
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,30/03/2020,5000,6000,5300
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,31/03/2020,5000,5500,5250
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,01/04/2020,4000,7000,5000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,02/04/2020,4000,6000,5000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,04/04/2020,3000,3000,3000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,06/04/2020,7500,8000,7800
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,07/04/2020,7500,8000,7700
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,08/04/2020,8500,8500,8500
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,09/04/2020,6500,7500,7000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,10/04/2020,4000,8000,6000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,11/04/2020,7000,7500,7300
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,13/04/2020,5700,7000,6000
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,14/04/2020,5000,7000,5500
+Haryana,Ambala,Naraingarh,Bhindi(Ladies Finger),Bhindi,15/04/2020,3000,3000,3000
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,20/02/2020,5500,6000,5800
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,21/02/2020,5000,5500,5200
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,23/02/2020,5000,5500,5300
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,24/02/2020,5500,6000,5800
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,25/02/2020,5000,5200,5100
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,26/02/2020,5000,5200,5100
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,27/02/2020,5000,5200,5100
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,28/02/2020,5000,5200,5100
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,03/03/2020,5500,6000,5800
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,04/03/2020,5000,5500,5300
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,05/03/2020,5000,5500,5200
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,06/03/2020,5200,5400,5300
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,08/03/2020,5200,5500,5300
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,09/03/2020,5500,5700,5600
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,10/03/2020,5400,5700,5600
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,11/03/2020,5500,6000,5800
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,12/03/2020,4800,5200,5000
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,15/03/2020,5000,5400,5200
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,16/03/2020,5500,5800,5600
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,17/03/2020,5000,5500,5300
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,18/03/2020,5000,5500,5300
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,19/03/2020,5500,6000,5700
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,24/03/2020,5000,5500,5300
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,29/03/2020,8500,10000,9500
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,30/03/2020,8000,9000,8500
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,31/03/2020,5500,6000,5800
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,05/04/2020,6000,6500,6300
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,06/04/2020,6400,6500,6450
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,07/04/2020,6500,6600,6550
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,08/04/2020,6500,6700,6600
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,09/04/2020,6500,6600,6550
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,10/04/2020,6000,6500,6300
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,12/04/2020,6000,6200,6100
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,13/04/2020,6000,6200,6100
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,14/04/2020,5800,6000,5900
+Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,15/04/2020,5700,6000,5800
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,21/02/2020,7000,7400,7200
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,22/02/2020,6450,6850,6650
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,25/02/2020,7000,7400,7200
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,28/02/2020,7000,7400,7200
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,29/02/2020,7000,7400,7200
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,04/03/2020,6400,6800,6600
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,05/03/2020,7400,7800,7600
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,06/03/2020,7000,7400,7200
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,08/03/2020,5800,6200,6000
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,11/03/2020,6400,6800,6600
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,12/03/2020,6800,7200,7000
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,13/03/2020,6800,7200,7000
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,14/03/2020,5800,6200,6000
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,15/03/2020,5800,6000,5900
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,17/03/2020,6800,7000,6900
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,20/03/2020,6400,6800,6600
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,21/03/2020,6800,7200,7000
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,22/03/2020,7400,7800,7600
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,26/03/2020,7800,8200,8000
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,27/03/2020,7400,7800,7600
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,28/03/2020,7000,7200,7100
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,29/03/2020,7250,7650,7450
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,31/03/2020,7000,7400,7200
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,01/04/2020,8200,8600,8400
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,03/04/2020,8400,8800,8600
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,04/04/2020,6800,7200,7000
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,06/04/2020,5400,5800,5600
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,07/04/2020,5200,5600,5400
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,09/04/2020,3600,3800,3700
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,10/04/2020,3600,4000,3800
+Jharkhand,Ranchi,Khunti,Bhindi(Ladies Finger),Other,13/04/2020,3200,3600,3400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,20/02/2020,1200,1800,1500
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,24/02/2020,1000,1600,1300
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,25/02/2020,1000,1600,1300
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,26/02/2020,1000,1600,1300
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,27/02/2020,100,1600,1300
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,28/02/2020,1000,1500,1300
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,29/02/2020,1200,1600,1400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,02/03/2020,1000,1800,1400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,03/03/2020,1200,1800,1500
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,04/03/2020,1200,1800,1500
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,05/03/2020,1200,1600,1400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,06/03/2020,1300,1800,1500
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,07/03/2020,1400,1800,1600
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,09/03/2020,1400,1600,1500
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,10/03/2020,2800,3200,3000
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,11/03/2020,1000,1600,1300
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,12/03/2020,1400,1800,1600
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,13/03/2020,1400,1800,1600
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,16/03/2020,1200,1600,1400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,17/03/2020,1200,1600,1400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,18/03/2020,1400,1800,1600
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,19/03/2020,1200,1800,1500
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,20/03/2020,1200,1600,1400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,21/03/2020,1400,1800,1600
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,02/04/2020,2500,3000,2600
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,03/04/2020,1000,2000,1400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,04/04/2020,1800,3000,2500
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,07/04/2020,1500,2000,1500
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,08/04/2020,1000,2000,1200
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,09/04/2020,1000,2500,2000
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,13/04/2020,1500,3000,2000
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Bhindi(Ladies Finger),Bhindi,15/04/2020,1500,3400,2000
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,21/02/2020,2300,2500,2400
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,22/02/2020,2200,2400,2300
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,23/02/2020,2300,2500,2400
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,24/02/2020,2400,2600,2500
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,25/02/2020,2000,2200,2100
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,26/02/2020,2100,2200,2200
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,27/02/2020,2200,2400,2300
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,28/02/2020,2200,2500,2400
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,29/02/2020,2200,2400,2300
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,02/03/2020,2500,2700,2600
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,04/03/2020,2000,2200,2100
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,05/03/2020,2100,2300,2200
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,08/03/2020,2000,2200,2100
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,09/03/2020,2000,2200,2100
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,10/03/2020,2100,2300,2200
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,11/03/2020,2100,2300,2200
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,12/03/2020,2300,2500,2400
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,13/03/2020,1800,2000,2000
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,14/03/2020,2200,2400,2300
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,16/03/2020,2200,2400,2300
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,17/03/2020,3000,3200,3100
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,18/03/2020,3100,3300,3200
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,19/03/2020,3200,3400,3300
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,20/03/2020,2700,2900,2800
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,21/03/2020,2500,2700,2600
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,23/03/2020,2800,3000,3000
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,24/03/2020,2500,2700,2600
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,25/03/2020,2500,2600,2600
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,26/03/2020,2600,2800,2700
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,27/03/2020,3000,3200,3100
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,29/03/2020,3200,3400,3300
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,30/03/2020,3400,3600,3500
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,31/03/2020,3400,3600,3500
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,02/04/2020,3400,3600,3500
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,03/04/2020,4600,4800,4700
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,04/04/2020,4700,4900,4800
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,06/04/2020,3200,3400,3300
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,07/04/2020,3300,3500,3400
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,08/04/2020,3500,3700,3600
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,09/04/2020,3500,3700,3600
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,11/04/2020,3500,3700,3600
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,12/04/2020,3600,3800,3700
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,13/04/2020,5000,5300,5100
+Kerala,Kottayam,Ettumanoor,Bhindi(Ladies Finger),Other,15/04/2020,5100,5300,5200
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,20/02/2020,3000,4500,3955
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,21/02/2020,3050,4550,3945
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,22/02/2020,3050,4500,3811
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,23/02/2020,3000,4000,3520
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,24/02/2020,3000,4050,3555
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,25/02/2020,3000,4000,3845
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,26/02/2020,3000,4000,3510
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,27/02/2020,3000,4500,3650
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,28/02/2020,2900,4600,3550
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,29/02/2020,3000,4500,3650
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,01/03/2020,2550,4000,2911
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,02/03/2020,2550,3500,3045
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,03/03/2020,2550,3500,3046
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,05/03/2020,2000,3500,2819
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,06/03/2020,2050,3000,2610
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,07/03/2020,2000,3000,2650
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,08/03/2020,2000,3000,2610
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,09/03/2020,2000,3000,2626
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,11/03/2020,2050,3000,2610
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,12/03/2020,2000,3500,2619
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,13/03/2020,2000,3000,2510
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,15/03/2020,2000,3050,2619
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,16/03/2020,2000,3000,2610
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,17/03/2020,2000,3500,2950
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,18/03/2020,2000,3500,2950
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,19/03/2020,2000,3500,2955
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,20/03/2020,2000,3500,2850
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,21/03/2020,2050,3500,2846
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,23/03/2020,2000,3500,2850
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,24/03/2020,2500,3500,2953
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,25/03/2020,2500,3500,2950
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,26/03/2020,2500,3500,2810
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,27/03/2020,2500,4000,2850
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,28/03/2020,2500,4000,2850
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,29/03/2020,2500,4000,2840
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,30/03/2020,2500,4000,2855
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,31/03/2020,2500,4000,2811
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,01/04/2020,2500,4000,2820
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,02/04/2020,2500,4000,2950
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,03/04/2020,2500,4000,2850
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,04/04/2020,2500,4500,3522
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,05/04/2020,2500,4500,3935
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,06/04/2020,2500,4500,3810
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,07/04/2020,2500,3500,2849
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,08/04/2020,3000,4500,3510
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,09/04/2020,3500,4500,3820
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,10/04/2020,3500,4500,3819
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,11/04/2020,2500,4000,3611
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,12/04/2020,2500,4000,3716
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,13/04/2020,2500,4000,3459
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,14/04/2020,2500,4000,3442
+Madhya Pradesh,Ujjain,Ujjain(F&V),Bhindi(Ladies Finger),Bhindi,15/04/2020,2500,4000,3440
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,20/02/2020,4000,5000,4500
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,21/02/2020,4000,5000,4500
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,22/02/2020,4000,5000,4500
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,23/02/2020,4000,5000,4500
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,24/02/2020,4000,5000,4500
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,25/02/2020,3500,4000,3800
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,28/02/2020,4000,4500,4200
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,01/03/2020,3000,4000,3500
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,02/03/2020,3500,4500,4000
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,03/03/2020,3000,4000,3500
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,05/03/2020,2800,3200,3000
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,07/03/2020,2400,3000,2800
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,11/03/2020,2800,3000,2900
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,14/03/2020,2500,3000,2800
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,15/03/2020,2400,2800,2500
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,16/03/2020,2500,3000,2800
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,17/03/2020,2800,3000,2900
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,18/03/2020,1800,2400,2000
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,19/03/2020,2500,3000,2800
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,21/03/2020,2400,2600,2500
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,22/03/2020,2000,2400,2200
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,23/03/2020,2500,3000,2800
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,24/03/2020,2400,2800,2500
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,25/03/2020,3000,3500,3200
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,26/03/2020,3000,3500,3200
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,27/03/2020,3000,3500,3200
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,29/03/2020,1800,2000,1900
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,31/03/2020,1600,2000,1800
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,02/04/2020,1600,2000,1800
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,03/04/2020,1800,2200,2000
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,04/04/2020,2000,2500,2200
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,05/04/2020,1800,2000,1900
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,06/04/2020,2000,2400,2200
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,07/04/2020,2000,2400,2200
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,08/04/2020,1800,2000,1900
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,09/04/2020,2000,2400,2200
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,10/04/2020,1800,2000,1900
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,11/04/2020,2000,2400,2200
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,12/04/2020,1800,2000,1900
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,13/04/2020,2000,2400,2200
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,14/04/2020,1600,2000,1800
+Odisha,Cuttack,Banki,Bhindi(Ladies Finger),Bhindi,15/04/2020,1800,2000,1900
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,20/02/2020,2000,2500,2200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,21/02/2020,2000,3000,2500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,22/02/2020,1500,2400,1900
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,24/02/2020,1700,2800,2300
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,25/02/2020,1500,2400,2000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,26/02/2020,1500,2500,2000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,27/02/2020,1500,2500,1900
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,28/02/2020,1500,2500,2000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,29/02/2020,1500,2400,2000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,02/03/2020,1400,2500,1900
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,03/03/2020,1200,1900,1400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,04/03/2020,1500,2400,2000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,05/03/2020,1200,2100,1600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,06/03/2020,1500,2400,2000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,07/03/2020,1800,3000,2500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,09/03/2020,1600,2800,2200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,10/03/2020,1200,2400,1800
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,11/03/2020,1800,3000,2400
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,12/03/2020,2000,3000,2500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,13/03/2020,1500,2400,2000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,14/03/2020,1500,2500,2000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,16/03/2020,1800,3000,2500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,17/03/2020,1500,2500,2000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,18/03/2020,1500,2500,2000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,19/03/2020,1600,2400,2000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,20/03/2020,1500,2500,2000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,21/03/2020,1600,2500,2200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,23/03/2020,1500,2800,2000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,30/03/2020,2500,3000,2700
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,31/03/2020,2700,3500,3000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,01/04/2020,2000,3100,2600
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,05/04/2020,2500,3500,3000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,06/04/2020,2200,3400,3000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,07/04/2020,2000,3500,3000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,08/04/2020,2000,3500,2500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,09/04/2020,2000,3500,2800
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,10/04/2020,2000,2800,2500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,13/04/2020,2000,3000,2500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,14/04/2020,2000,3000,2500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Bhindi(Ladies Finger),Bhindi,15/04/2020,1800,3000,2400
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,21/02/2020,1500,3500,2600
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,22/02/2020,1500,3500,2500
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,23/02/2020,1500,3500,2600
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,24/02/2020,1500,3500,2500
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,25/02/2020,1500,3500,3000
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,26/02/2020,1500,3500,3000
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,27/02/2020,1500,3500,3200
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,28/02/2020,1500,3500,3000
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,29/02/2020,1500,3500,3100
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,04/03/2020,1500,3500,2800
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,05/03/2020,1600,3500,3000
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,06/03/2020,1800,4000,2900
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,08/03/2020,1500,3500,2600
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,09/03/2020,1500,3500,3000
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,11/03/2020,1500,3500,2800
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,12/03/2020,1500,3500,2600
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,13/03/2020,1500,3500,2800
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,14/03/2020,1500,3500,2700
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,15/03/2020,1500,3000,2500
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,17/03/2020,1500,3000,2800
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,18/03/2020,1500,3000,2400
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,19/03/2020,1500,3000,2500
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,20/03/2020,1500,3000,2600
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,13/04/2020,3500,4000,3800
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,14/04/2020,3000,4000,3500
+Rajasthan,Ajmer,Ajmer(F&V),Bhindi(Ladies Finger),Other,15/04/2020,2000,2800,2500
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,20/02/2020,2000,2200,2080
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,22/02/2020,2000,2240,2100
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,23/02/2020,2040,2270,2140
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,24/02/2020,2000,2240,2100
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,26/02/2020,2200,2425,2275
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,27/02/2020,2160,2400,2260
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,28/02/2020,2100,2340,2200
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,01/03/2020,2140,2380,2240
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,02/03/2020,2160,2400,2260
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,03/03/2020,2100,2330,2200
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,04/03/2020,2080,2320,2180
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,05/03/2020,2150,2375,2250
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,06/03/2020,2200,2400,2275
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,07/03/2020,2150,2380,2250
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,08/03/2020,2175,2400,2275
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,09/03/2020,2150,2380,2250
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,12/03/2020,2100,2340,2200
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,13/03/2020,2070,2300,2170
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,14/03/2020,2050,2280,2150
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,15/03/2020,2050,2280,2150
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,16/03/2020,2000,2250,2100
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,17/03/2020,2060,2300,2160
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,18/03/2020,2020,2260,2120
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,19/03/2020,2100,2340,2200
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,20/03/2020,2140,2385,2240
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,21/03/2020,2160,2400,2260
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,31/03/2020,2100,2350,2200
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,01/04/2020,2100,2300,2180
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,02/04/2020,2250,2500,2350
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,03/04/2020,2300,2540,2400
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,04/04/2020,2350,2585,2450
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,05/04/2020,2400,2640,2500
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,06/04/2020,2350,2590,2450
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,07/04/2020,2450,2680,2550
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,08/04/2020,2150,2300,2250
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,09/04/2020,2200,2350,2300
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,10/04/2020,2250,2400,2350
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,11/04/2020,2000,2500,2250
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,12/04/2020,2300,2450,2400
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,13/04/2020,2200,2350,2300
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,14/04/2020,2150,2300,2250
+Uttar Pradesh,Gorakhpur,Gorakhpur,Bhindi(Ladies Finger),Bhindi,15/04/2020,1750,1900,1850
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,20/02/2020,7000,8000,7000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,21/02/2020,7000,8000,8000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,22/02/2020,7000,8000,8000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,23/02/2020,8000,9000,9000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,24/02/2020,9000,9600,9000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,25/02/2020,9000,9600,9000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,26/02/2020,8000,9000,8000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,27/02/2020,7000,8000,8000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,28/02/2020,6000,7000,7000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,29/02/2020,6000,7000,7000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,01/03/2020,6000,7000,6500
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,02/03/2020,7000,8000,7000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,03/03/2020,7000,8000,7600
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,04/03/2020,7000,8000,7600
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,05/03/2020,7000,8000,7000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,06/03/2020,7000,8000,7000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,07/03/2020,7000,8000,7000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,08/03/2020,7000,8000,7000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,09/03/2020,7000,8000,7000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,10/03/2020,7000,8000,7000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,11/03/2020,6000,6400,6000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,12/03/2020,6000,6400,6000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,13/03/2020,6000,6200,6000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,14/03/2020,5600,6200,6000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,15/03/2020,5000,6000,5600
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,16/03/2020,5000,6000,5600
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,17/03/2020,5000,6000,5600
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,18/03/2020,5000,6000,5600
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,19/03/2020,5000,6000,5400
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,20/03/2020,5000,6000,5600
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,21/03/2020,5000,6000,5600
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,23/03/2020,7000,8000,7000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,24/03/2020,6000,7000,6500
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,25/03/2020,6000,7000,6500
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,28/03/2020,2000,3000,2400
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,29/03/2020,2000,2500,2400
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,30/03/2020,2000,2500,2200
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,01/04/2020,2000,2400,2200
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,02/04/2020,2500,2800,2500
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,03/04/2020,2000,3000,2400
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,04/04/2020,2500,3000,2600
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,05/04/2020,2000,3000,2400
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,06/04/2020,2000,3000,2400
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,07/04/2020,2000,2400,2000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,08/04/2020,2000,2100,2000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,09/04/2020,1600,2500,2000
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,10/04/2020,2000,2600,2500
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,11/04/2020,2000,2200,2200
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,12/04/2020,2000,2500,2200
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,13/04/2020,2000,2500,2200
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,14/04/2020,2000,2500,2200
+West Bengal,Kolkata,Sealdah Koley Market,Bhindi(Ladies Finger),Other,15/04/2020,2000,2200,2100
