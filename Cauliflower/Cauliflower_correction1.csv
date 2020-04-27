@@ -1,0 +1,646 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Chattisgarh,Durg,Durg,Cauliflower,Other,20/02/2020,1000,1200,1100
+Chattisgarh,Durg,Durg,Cauliflower,Other,22/02/2020,800,1200,1000
+Chattisgarh,Durg,Durg,Cauliflower,Other,23/02/2020,1000,1100,1050
+Chattisgarh,Durg,Durg,Cauliflower,Other,25/02/2020,800,1000,900
+Chattisgarh,Durg,Durg,Cauliflower,Other,26/02/2020,900,1000,950
+Chattisgarh,Durg,Durg,Cauliflower,Other,27/02/2020,700,800,750
+Chattisgarh,Durg,Durg,Cauliflower,Other,28/02/2020,600,800,700
+Chattisgarh,Durg,Durg,Cauliflower,Other,29/02/2020,700,800,750
+Chattisgarh,Durg,Durg,Cauliflower,Other,01/03/2020,700,800,750
+Chattisgarh,Durg,Durg,Cauliflower,Other,03/03/2020,600,800,700
+Chattisgarh,Durg,Durg,Cauliflower,Other,04/03/2020,700,800,750
+Chattisgarh,Durg,Durg,Cauliflower,Other,05/03/2020,600,800,700
+Chattisgarh,Durg,Durg,Cauliflower,Other,06/03/2020,1000,1100,1050
+Chattisgarh,Durg,Durg,Cauliflower,Other,07/03/2020,800,1000,900
+Chattisgarh,Durg,Durg,Cauliflower,Other,09/03/2020,600,1000,800
+Chattisgarh,Durg,Durg,Cauliflower,Other,12/03/2020,800,1000,900
+Chattisgarh,Durg,Durg,Cauliflower,Other,13/03/2020,1000,1200,1100
+Chattisgarh,Durg,Durg,Cauliflower,Other,15/03/2020,600,1000,800
+Chattisgarh,Durg,Durg,Cauliflower,Other,17/03/2020,700,1000,850
+Chattisgarh,Durg,Durg,Cauliflower,Other,18/03/2020,800,1000,900
+Chattisgarh,Durg,Durg,Cauliflower,Other,19/03/2020,1000,1100,1050
+Chattisgarh,Durg,Durg,Cauliflower,Other,20/03/2020,800,1200,1000
+Chattisgarh,Durg,Durg,Cauliflower,Other,21/03/2020,1000,1200,1100
+Chattisgarh,Durg,Durg,Cauliflower,Other,24/03/2020,800,1200,1000
+Chattisgarh,Durg,Durg,Cauliflower,Other,25/03/2020,1000,1200,1100
+Chattisgarh,Durg,Durg,Cauliflower,Other,29/03/2020,1000,1200,1100
+Chattisgarh,Durg,Durg,Cauliflower,Other,01/04/2020,2000,2200,2100
+Chattisgarh,Durg,Durg,Cauliflower,Other,02/04/2020,1500,2000,1750
+Chattisgarh,Durg,Durg,Cauliflower,Other,03/04/2020,1600,2000,1800
+Chattisgarh,Durg,Durg,Cauliflower,Other,04/04/2020,2000,2200,2100
+Chattisgarh,Durg,Durg,Cauliflower,Other,05/04/2020,1800,2000,1900
+Chattisgarh,Durg,Durg,Cauliflower,Other,07/04/2020,1800,2000,1900
+Chattisgarh,Durg,Durg,Cauliflower,Other,08/04/2020,1600,2000,1800
+Chattisgarh,Durg,Durg,Cauliflower,Other,09/04/2020,1800,2000,1900
+Chattisgarh,Durg,Durg,Cauliflower,Other,10/04/2020,1600,2000,1800
+Chattisgarh,Durg,Durg,Cauliflower,Other,11/04/2020,1800,2000,1900
+Chattisgarh,Durg,Durg,Cauliflower,Other,12/04/2020,1600,2000,1800
+Chattisgarh,Durg,Durg,Cauliflower,Other,14/04/2020,2000,2500,2250
+Chattisgarh,Durg,Durg,Cauliflower,Other,15/04/2020,2000,2500,2250
+Gujarat,Surat,Vyra,Cauliflower,Other,20/02/2020,400,600,500
+Gujarat,Surat,Vyra,Cauliflower,Other,21/02/2020,350,500,425
+Gujarat,Surat,Vyra,Cauliflower,Other,22/02/2020,500,800,650
+Gujarat,Surat,Vyra,Cauliflower,Other,24/02/2020,500,900,700
+Gujarat,Surat,Vyra,Cauliflower,Other,25/02/2020,250,800,650
+Gujarat,Surat,Vyra,Cauliflower,Other,26/02/2020,500,800,650
+Gujarat,Surat,Vyra,Cauliflower,Other,28/02/2020,600,800,700
+Gujarat,Surat,Vyra,Cauliflower,Other,29/02/2020,500,700,600
+Gujarat,Surat,Vyra,Cauliflower,Other,04/03/2020,300,800,550
+Gujarat,Surat,Vyra,Cauliflower,Other,05/03/2020,200,400,300
+Gujarat,Surat,Vyra,Cauliflower,Other,06/03/2020,200,500,350
+Gujarat,Surat,Vyra,Cauliflower,Other,07/03/2020,250,600,425
+Gujarat,Surat,Vyra,Cauliflower,Other,11/03/2020,100,600,350
+Gujarat,Surat,Vyra,Cauliflower,Other,12/03/2020,250,500,375
+Gujarat,Surat,Vyra,Cauliflower,Other,13/03/2020,300,600,450
+Gujarat,Surat,Vyra,Cauliflower,Other,14/03/2020,250,650,450
+Gujarat,Surat,Vyra,Cauliflower,Other,16/03/2020,600,700,650
+Gujarat,Surat,Vyra,Cauliflower,Other,17/03/2020,500,1000,750
+Gujarat,Surat,Vyra,Cauliflower,Other,18/03/2020,250,700,475
+Gujarat,Surat,Vyra,Cauliflower,Other,19/03/2020,250,500,325
+Gujarat,Surat,Vyra,Cauliflower,Other,20/03/2020,250,700,475
+Gujarat,Surat,Vyra,Cauliflower,Other,21/03/2020,500,1000,750
+Gujarat,Surat,Vyra,Cauliflower,Other,23/03/2020,1000,1500,1250
+Gujarat,Surat,Vyra,Cauliflower,Other,24/03/2020,150,500,325
+Gujarat,Surat,Vyra,Cauliflower,Other,26/03/2020,500,1250,875
+Gujarat,Surat,Vyra,Cauliflower,Other,27/03/2020,300,1000,650
+Gujarat,Surat,Vyra,Cauliflower,Other,28/03/2020,500,800,650
+Gujarat,Surat,Vyra,Cauliflower,Other,29/03/2020,1000,1250,1125
+Gujarat,Surat,Vyra,Cauliflower,Other,30/03/2020,500,750,625
+Gujarat,Surat,Vyra,Cauliflower,Other,31/03/2020,1000,1250,1125
+Gujarat,Surat,Vyra,Cauliflower,Other,04/04/2020,400,1100,750
+Gujarat,Surat,Vyra,Cauliflower,Other,05/04/2020,1600,2000,1800
+Gujarat,Surat,Vyra,Cauliflower,Other,06/04/2020,500,1600,1050
+Gujarat,Surat,Vyra,Cauliflower,Other,07/04/2020,800,1500,1150
+Gujarat,Surat,Vyra,Cauliflower,Other,08/04/2020,1000,1500,1250
+Gujarat,Surat,Vyra,Cauliflower,Other,09/04/2020,1750,2700,2125
+Gujarat,Surat,Vyra,Cauliflower,Other,10/04/2020,400,2250,1325
+Gujarat,Surat,Vyra,Cauliflower,Other,11/04/2020,1000,2250,1625
+Gujarat,Surat,Vyra,Cauliflower,Other,12/04/2020,1000,2000,1500
+Gujarat,Surat,Vyra,Cauliflower,Other,13/04/2020,750,1500,1150
+Gujarat,Surat,Vyra,Cauliflower,Other,14/04/2020,800,1750,1250
+Gujarat,Surat,Vyra,Cauliflower,Other,15/04/2020,1750,2250,2000
+Haryana,Ambala,Barara,Cauliflower,Other,20/02/2020,1000,1400,1000
+Haryana,Ambala,Barara,Cauliflower,Other,21/02/2020,1200,1500,1200
+Haryana,Ambala,Barara,Cauliflower,Other,22/02/2020,1200,1400,1200
+Haryana,Ambala,Barara,Cauliflower,Other,23/02/2020,1000,1200,1000
+Haryana,Ambala,Barara,Cauliflower,Other,24/02/2020,1200,1400,1200
+Haryana,Ambala,Barara,Cauliflower,Other,25/02/2020,1200,1500,1200
+Haryana,Ambala,Barara,Cauliflower,Other,26/02/2020,1000,1200,1000
+Haryana,Ambala,Barara,Cauliflower,Other,27/02/2020,1200,1500,1200
+Haryana,Ambala,Barara,Cauliflower,Other,01/03/2020,1200,1300,1200
+Haryana,Ambala,Barara,Cauliflower,Other,02/03/2020,1400,1500,1400
+Haryana,Ambala,Barara,Cauliflower,Other,03/03/2020,1400,1500,1400
+Haryana,Ambala,Barara,Cauliflower,Other,04/03/2020,1200,1400,1200
+Haryana,Ambala,Barara,Cauliflower,Other,06/03/2020,1200,1500,1200
+Haryana,Ambala,Barara,Cauliflower,Other,07/03/2020,1400,1500,1400
+Haryana,Ambala,Barara,Cauliflower,Other,09/03/2020,1200,1400,1200
+Haryana,Ambala,Barara,Cauliflower,Other,10/03/2020,1400,1500,1400
+Haryana,Ambala,Barara,Cauliflower,Other,11/03/2020,1200,1400,1200
+Haryana,Ambala,Barara,Cauliflower,Other,13/03/2020,1200,1500,1200
+Haryana,Ambala,Barara,Cauliflower,Other,14/03/2020,1400,1600,1400
+Haryana,Ambala,Barara,Cauliflower,Other,16/03/2020,1400,1600,1400
+Haryana,Ambala,Barara,Cauliflower,Other,17/03/2020,1500,1800,1500
+Haryana,Ambala,Barara,Cauliflower,Other,18/03/2020,1800,2000,1800
+Haryana,Ambala,Barara,Cauliflower,Other,19/03/2020,1500,2000,1500
+Haryana,Ambala,Barara,Cauliflower,Other,20/03/2020,1500,1800,1500
+Haryana,Ambala,Barara,Cauliflower,Other,26/03/2020,800,1800,800
+Haryana,Ambala,Barara,Cauliflower,Other,27/03/2020,1000,1500,1000
+Haryana,Ambala,Barara,Cauliflower,Other,28/03/2020,1500,1800,1500
+Haryana,Ambala,Barara,Cauliflower,Other,29/03/2020,1500,1800,1500
+Haryana,Ambala,Barara,Cauliflower,Other,31/03/2020,1500,2000,1500
+Haryana,Ambala,Barara,Cauliflower,Other,03/04/2020,1000,1400,1000
+Haryana,Ambala,Barara,Cauliflower,Other,04/04/2020,1000,1500,1000
+Haryana,Ambala,Barara,Cauliflower,Other,06/04/2020,700,1000,700
+Haryana,Ambala,Barara,Cauliflower,Other,07/04/2020,800,1000,800
+Haryana,Ambala,Barara,Cauliflower,Other,08/04/2020,800,1000,800
+Haryana,Ambala,Barara,Cauliflower,Other,09/04/2020,1000,1100,1000
+Haryana,Ambala,Barara,Cauliflower,Other,10/04/2020,1000,1100,1000
+Haryana,Ambala,Barara,Cauliflower,Other,11/04/2020,1000,1100,1000
+Haryana,Ambala,Barara,Cauliflower,Other,12/04/2020,1000,1200,1000
+Haryana,Ambala,Barara,Cauliflower,Other,13/04/2020,1000,1200,1000
+Haryana,Ambala,Barara,Cauliflower,Other,14/04/2020,1000,1100,1000
+Haryana,Ambala,Barara,Cauliflower,Other,15/04/2020,1000,1100,1000
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,20/02/2020,1000,1200,1100
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,22/02/2020,600,1000,800
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,24/02/2020,500,1200,900
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,25/02/2020,900,1000,1000
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,26/02/2020,700,900,800
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,27/02/2020,600,800,700
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,28/02/2020,1000,1500,1200
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,29/02/2020,800,1300,1100
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,02/03/2020,1000,1200,1100
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,03/03/2020,1500,2500,2000
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,04/03/2020,1500,2000,1800
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,05/03/2020,600,800,700
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,06/03/2020,2000,2200,2100
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,07/03/2020,1500,2000,1800
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,09/03/2020,1600,1800,1700
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,11/03/2020,1300,1500,1400
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,12/03/2020,1200,2000,1800
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,13/03/2020,1200,1800,1500
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,16/03/2020,1000,1500,1400
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,17/03/2020,1200,1500,1400
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,18/03/2020,1500,2000,1800
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,19/03/2020,1000,1500,1400
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,20/03/2020,1000,1500,1400
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,23/03/2020,1200,1500,1400
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,26/03/2020,500,1500,1400
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,30/03/2020,1000,1500,1200
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,02/04/2020,1500,2000,1800
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,03/04/2020,1000,2000,1800
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,04/04/2020,1000,2500,2000
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,05/04/2020,1500,2500,2000
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,06/04/2020,1000,2000,1500
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,07/04/2020,1500,2000,1800
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,08/04/2020,1500,2000,1800
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,09/04/2020,1800,2000,1900
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,11/04/2020,1200,1500,1400
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,12/04/2020,1500,2000,1800
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,13/04/2020,1000,1500,1500
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,14/04/2020,1500,2000,1800
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,21/02/2020,3000,3400,3200
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,22/02/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,25/02/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,28/02/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,04/03/2020,3000,3200,3100
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,05/03/2020,2800,3200,3000
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,06/03/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,08/03/2020,2450,2850,2650
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,11/03/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,12/03/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,13/03/2020,2450,2850,2650
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,14/03/2020,2200,2400,2300
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,15/03/2020,2250,2650,2450
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,17/03/2020,2000,2400,2200
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,20/03/2020,2000,2400,2200
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,21/03/2020,3600,4000,3800
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,22/03/2020,3600,4000,3800
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,26/03/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,27/03/2020,3200,3600,3400
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,28/03/2020,2450,2850,2650
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,29/03/2020,2600,3000,2800
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,31/03/2020,2450,2850,2650
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,01/04/2020,2400,2600,2500
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,03/04/2020,2450,2850,2650
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,04/04/2020,2000,2400,2200
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,06/04/2020,2000,2600,2400
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,07/04/2020,2200,2600,2400
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,09/04/2020,2000,2200,2100
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,10/04/2020,2400,2800,2600
+Jharkhand,Ranchi,Khunti,Cauliflower,Other,13/04/2020,2400,2600,2500
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,20/02/2020,200,400,300
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,21/02/2020,300,500,400
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,23/02/2020,300,500,400
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,24/02/2020,300,500,400
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,25/02/2020,300,500,400
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,26/02/2020,300,500,400
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,27/02/2020,300,500,400
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,28/02/2020,300,500,400
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,01/03/2020,300,500,400
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,02/03/2020,300,500,400
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,03/03/2020,500,700,600
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,04/03/2020,500,700,600
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,05/03/2020,500,700,600
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,06/03/2020,300,500,400
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,08/03/2020,600,800,700
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,09/03/2020,800,1000,900
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,10/03/2020,800,1000,900
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,11/03/2020,800,1000,900
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,12/03/2020,600,800,700
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,13/03/2020,600,800,700
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,15/03/2020,800,1000,900
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,16/03/2020,800,1000,900
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,17/03/2020,800,1000,900
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,18/03/2020,600,800,700
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,19/03/2020,600,800,700
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,20/03/2020,600,800,700
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,23/03/2020,800,1000,900
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,24/03/2020,800,1000,950
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,26/03/2020,800,1000,900
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,27/03/2020,800,1000,900
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,29/03/2020,600,800,700
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,31/03/2020,800,1000,900
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,01/04/2020,800,1000,900
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,02/04/2020,1000,1200,1100
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,03/04/2020,1000,1200,1100
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,05/04/2020,1000,1200,1150
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,06/04/2020,1000,1200,1100
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,07/04/2020,1000,1200,1100
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,08/04/2020,1000,1200,1100
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,09/04/2020,1000,1200,1100
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,10/04/2020,1000,1200,1100
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,12/04/2020,1000,1200,1100
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,14/04/2020,1000,1200,1100
+Karnataka,Mysore,Mysore (Bandipalya),Cauliflower,Local,15/04/2020,1000,1200,1100
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,20/02/2020,4100,4300,4200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,21/02/2020,4300,4500,4400
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,22/02/2020,4200,4400,4300
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,23/02/2020,3200,3400,3300
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,24/02/2020,3200,3400,3300
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,25/02/2020,3200,3400,3300
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,26/02/2020,3300,3500,3400
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,28/02/2020,2900,3100,3000
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,01/03/2020,3000,3200,3100
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,02/03/2020,3000,3200,3100
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,03/03/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,04/03/2020,2900,3100,3000
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,05/03/2020,2900,3100,3000
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,06/03/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,07/03/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,08/03/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,09/03/2020,2900,3100,3000
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,10/03/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,11/03/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,12/03/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,13/03/2020,3000,3200,3100
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,14/03/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,15/03/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,16/03/2020,3000,3200,3100
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,17/03/2020,3000,3200,3100
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,18/03/2020,3000,3200,3100
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,19/03/2020,2900,3100,3000
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,20/03/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,21/03/2020,2900,3100,3000
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,22/03/2020,3000,3200,3100
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,23/03/2020,3000,3200,3100
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,24/03/2020,2900,3100,3000
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,25/03/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,29/03/2020,3400,3600,3500
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,30/03/2020,3500,3700,3600
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,31/03/2020,3400,3600,3500
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,01/04/2020,3400,3600,3500
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,02/04/2020,3400,3600,3500
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,03/04/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,04/04/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,05/04/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,06/04/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,07/04/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,08/04/2020,3200,3400,3300
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,10/04/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,11/04/2020,3400,3600,3500
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,12/04/2020,3100,3300,3200
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,13/04/2020,3400,3600,3500
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,14/04/2020,3400,3600,3500
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,15/04/2020,3400,3600,3500
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,20/02/2020,1000,2500,1845
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,21/02/2020,1050,2050,1446
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,22/02/2020,1000,2000,1550
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,23/02/2020,1000,2000,1550
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,24/02/2020,1650,2300,1950
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,25/02/2020,1600,2400,1845
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,26/02/2020,1550,2055,1810
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,27/02/2020,1050,2100,1846
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,28/02/2020,1600,2400,1825
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,29/02/2020,1500,2500,1850
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,01/03/2020,1000,2200,1811
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,02/03/2020,1000,2300,1955
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,03/03/2020,1050,2400,1950
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,05/03/2020,1000,2000,1499
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,06/03/2020,1050,2200,1590
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,07/03/2020,1000,2300,1550
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,08/03/2020,1000,2400,1955
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,09/03/2020,1000,2400,1950
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,11/03/2020,1000,2400,1840
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,12/03/2020,1000,2400,1849
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,13/03/2020,1000,2000,1720
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,15/03/2020,1000,2450,1856
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,16/03/2020,1000,2400,1846
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,17/03/2020,1000,2000,1855
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,18/03/2020,1000,2000,1850
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,19/03/2020,1000,2050,1520
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,20/03/2020,1000,2000,1550
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,21/03/2020,1000,2400,1950
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,23/03/2020,1000,2000,1555
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,24/03/2020,1000,2500,1646
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,25/03/2020,1000,2500,1948
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,26/03/2020,1500,3000,2250
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,27/03/2020,1500,3500,2350
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,28/03/2020,1500,2500,1846
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,29/03/2020,1500,2500,1839
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,30/03/2020,1500,2500,1841
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,31/03/2020,1500,2500,1825
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,01/04/2020,1500,2500,1852
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,02/04/2020,1500,2500,1856
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,03/04/2020,1500,2500,1966
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,04/04/2020,1500,2500,1867
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,05/04/2020,1500,2500,1810
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,06/04/2020,1500,2500,1913
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,07/04/2020,1500,2500,1934
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,08/04/2020,1500,2500,1823
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,09/04/2020,1500,2500,1849
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,10/04/2020,1500,2500,1820
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,11/04/2020,1500,2500,1824
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,12/04/2020,1500,2500,1949
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,13/04/2020,1500,2500,1942
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,14/04/2020,1500,2500,1829
+Madhya Pradesh,Ujjain,Ujjain(F&V),Cauliflower,Cauliflower,15/04/2020,1500,2500,1950
+Odisha,Sundergarh,Panposh,Cauliflower,Other,20/02/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,21/02/2020,2600,3000,2900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,22/02/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,23/02/2020,1600,2000,1900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,24/02/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,25/02/2020,2400,2800,2700
+Odisha,Sundergarh,Panposh,Cauliflower,Other,26/02/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,27/02/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,28/02/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,29/02/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,02/03/2020,2400,2800,2700
+Odisha,Sundergarh,Panposh,Cauliflower,Other,03/03/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,09/03/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,10/03/2020,1600,2000,1900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,12/03/2020,1600,2000,1900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,14/03/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,15/03/2020,2400,2800,2700
+Odisha,Sundergarh,Panposh,Cauliflower,Other,16/03/2020,1600,2000,1900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,17/03/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,18/03/2020,1600,2000,1900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,19/03/2020,1600,2000,1900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,20/03/2020,1600,2000,1900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,21/03/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,23/03/2020,2600,3000,2900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,24/03/2020,3600,4000,3900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,25/03/2020,2600,3000,2900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,26/03/2020,2600,3000,2900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,27/03/2020,3200,3600,3500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,29/03/2020,2600,3000,2900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,30/03/2020,2600,3000,2900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,31/03/2020,2600,3000,2900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,01/04/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,02/04/2020,2600,3000,2900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,04/04/2020,2600,3000,2900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,05/04/2020,2600,3000,2900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,06/04/2020,2600,3000,3000
+Odisha,Sundergarh,Panposh,Cauliflower,Other,07/04/2020,2600,3000,2900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,08/04/2020,1600,2000,1900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,09/04/2020,2600,3000,2900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,10/04/2020,1600,2000,1900
+Odisha,Sundergarh,Panposh,Cauliflower,Other,12/04/2020,2200,2600,2500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,15/04/2020,1600,2000,1900
+Punjab,Tarntaran,Patti,Cauliflower,Other,20/02/2020,1000,1500,1200
+Punjab,Tarntaran,Patti,Cauliflower,Other,21/02/2020,700,900,800
+Punjab,Tarntaran,Patti,Cauliflower,Other,22/02/2020,1200,1800,1500
+Punjab,Tarntaran,Patti,Cauliflower,Other,23/02/2020,700,1200,1100
+Punjab,Tarntaran,Patti,Cauliflower,Other,24/02/2020,400,600,500
+Punjab,Tarntaran,Patti,Cauliflower,Other,25/02/2020,500,600,530
+Punjab,Tarntaran,Patti,Cauliflower,Other,26/02/2020,300,500,400
+Punjab,Tarntaran,Patti,Cauliflower,Other,27/02/2020,300,500,400
+Punjab,Tarntaran,Patti,Cauliflower,Other,28/02/2020,300,500,400
+Punjab,Tarntaran,Patti,Cauliflower,Other,29/02/2020,700,1200,900
+Punjab,Tarntaran,Patti,Cauliflower,Other,01/03/2020,700,900,800
+Punjab,Tarntaran,Patti,Cauliflower,Other,02/03/2020,800,1300,1100
+Punjab,Tarntaran,Patti,Cauliflower,Other,03/03/2020,1200,1700,1500
+Punjab,Tarntaran,Patti,Cauliflower,Other,04/03/2020,1000,1400,1200
+Punjab,Tarntaran,Patti,Cauliflower,Other,05/03/2020,800,1300,1100
+Punjab,Tarntaran,Patti,Cauliflower,Other,06/03/2020,300,500,400
+Punjab,Tarntaran,Patti,Cauliflower,Other,07/03/2020,1200,1800,1500
+Punjab,Tarntaran,Patti,Cauliflower,Other,08/03/2020,1200,1800,1500
+Punjab,Tarntaran,Patti,Cauliflower,Other,09/03/2020,1000,1500,1300
+Punjab,Tarntaran,Patti,Cauliflower,Other,10/03/2020,1200,1800,1600
+Punjab,Tarntaran,Patti,Cauliflower,Other,11/03/2020,1500,2000,1800
+Punjab,Tarntaran,Patti,Cauliflower,Other,12/03/2020,1500,2000,1800
+Punjab,Tarntaran,Patti,Cauliflower,Other,13/03/2020,1000,1600,1300
+Punjab,Tarntaran,Patti,Cauliflower,Other,14/03/2020,1300,1900,1600
+Punjab,Tarntaran,Patti,Cauliflower,Other,15/03/2020,1200,1700,1400
+Punjab,Tarntaran,Patti,Cauliflower,Other,16/03/2020,1600,2000,1800
+Punjab,Tarntaran,Patti,Cauliflower,Other,17/03/2020,1500,2000,1800
+Punjab,Tarntaran,Patti,Cauliflower,Other,18/03/2020,1000,1500,1200
+Punjab,Tarntaran,Patti,Cauliflower,Other,19/03/2020,1000,1600,1300
+Punjab,Tarntaran,Patti,Cauliflower,Other,20/03/2020,1200,1600,1400
+Punjab,Tarntaran,Patti,Cauliflower,Other,21/03/2020,1000,1500,1200
+Punjab,Tarntaran,Patti,Cauliflower,Other,22/03/2020,1400,1800,1600
+Punjab,Tarntaran,Patti,Cauliflower,Other,23/03/2020,900,1500,1100
+Punjab,Tarntaran,Patti,Cauliflower,Other,28/03/2020,1500,2000,1800
+Punjab,Tarntaran,Patti,Cauliflower,Other,29/03/2020,1500,2000,1800
+Punjab,Tarntaran,Patti,Cauliflower,Other,31/03/2020,1500,2000,1800
+Punjab,Tarntaran,Patti,Cauliflower,Other,01/04/2020,1000,1500,1200
+Punjab,Tarntaran,Patti,Cauliflower,Other,02/04/2020,1200,1800,1500
+Punjab,Tarntaran,Patti,Cauliflower,Other,03/04/2020,1800,2200,2000
+Punjab,Tarntaran,Patti,Cauliflower,Other,04/04/2020,1000,1700,1500
+Punjab,Tarntaran,Patti,Cauliflower,Other,05/04/2020,1500,2000,1800
+Punjab,Tarntaran,Patti,Cauliflower,Other,06/04/2020,1200,1600,1400
+Punjab,Tarntaran,Patti,Cauliflower,Other,09/04/2020,1500,2000,1800
+Punjab,Tarntaran,Patti,Cauliflower,Other,10/04/2020,2000,2500,2200
+Punjab,Tarntaran,Patti,Cauliflower,Other,11/04/2020,1500,2000,1800
+Punjab,Tarntaran,Patti,Cauliflower,Other,12/04/2020,1200,1800,1500
+Punjab,Tarntaran,Patti,Cauliflower,Other,13/04/2020,1500,2000,1800
+Punjab,Tarntaran,Patti,Cauliflower,Other,14/04/2020,2000,2800,2500
+Punjab,Tarntaran,Patti,Cauliflower,Other,15/04/2020,2000,2500,2200
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,20/02/2020,400,800,600
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,21/02/2020,400,800,600
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,23/02/2020,500,1000,750
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,24/02/2020,400,1000,700
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,25/02/2020,300,1000,650
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,26/02/2020,300,1000,650
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,27/02/2020,400,1000,700
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,28/02/2020,500,1000,750
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,04/03/2020,400,1000,700
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,05/03/2020,600,1000,800
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,08/03/2020,400,1000,700
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,09/03/2020,400,1200,800
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,10/03/2020,600,1200,900
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,12/03/2020,400,1000,700
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,13/03/2020,600,1400,1000
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,14/03/2020,600,1400,1000
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,15/03/2020,500,1200,850
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,16/03/2020,600,1200,900
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,17/03/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,18/03/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,19/03/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,20/03/2020,600,2000,1300
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,27/03/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,28/03/2020,300,700,500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,29/03/2020,400,1000,700
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,30/03/2020,500,1500,1000
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,31/03/2020,1000,1500,1250
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,11/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,12/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,13/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,14/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,15/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,16/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,17/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,18/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,19/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,20/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,21/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,22/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,23/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,24/04/2020,1000,2000,1500
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,25/04/2020,1000,2000,1500
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,20/02/2020,2500,3000,2800
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,21/02/2020,3000,3500,3200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,22/02/2020,2200,2500,2300
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,23/02/2020,2200,2500,2400
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,24/02/2020,2000,2700,2400
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,25/02/2020,2500,3000,2800
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,26/02/2020,3000,3500,3200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,27/02/2020,3000,3500,3200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,28/02/2020,2000,2400,2200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,29/02/2020,2000,2500,2200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,01/03/2020,2000,2300,2200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,02/03/2020,2000,2300,2100
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,03/03/2020,2000,2300,2200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,04/03/2020,2000,2400,2200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,05/03/2020,2000,2500,2200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,06/03/2020,1800,2000,1900
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,07/03/2020,2000,2500,2200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,08/03/2020,1600,2000,1800
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,09/03/2020,1500,2000,1800
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,10/03/2020,1500,2000,1800
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,11/03/2020,1800,2200,2000
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,12/03/2020,1500,2000,1800
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,13/03/2020,1800,2200,2000
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,14/03/2020,1800,2000,1900
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,15/03/2020,1800,2000,1900
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,16/03/2020,1800,2000,1900
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,17/03/2020,2000,2500,2200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,18/03/2020,2000,2200,2100
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,19/03/2020,1800,2000,1900
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,20/03/2020,1400,1600,1500
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,21/03/2020,1500,1800,1700
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,22/03/2020,2000,2400,2200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,23/03/2020,2000,2300,2100
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,27/03/2020,2400,2800,2600
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,30/03/2020,1400,1700,1500
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,03/04/2020,1100,1400,1200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,04/04/2020,1500,1800,1700
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,05/04/2020,1800,2200,2000
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,06/04/2020,1000,1400,1200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,10/04/2020,2000,2500,2200
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,11/04/2020,2200,2800,2500
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,12/04/2020,3000,4000,3700
+Tripura,Khowai,Teliamura,Cauliflower,Cauliflower,13/04/2020,2500,3000,2700
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,21/02/2020,830,890,860
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,22/02/2020,800,900,850
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,23/02/2020,850,950,900
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,24/02/2020,850,950,900
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,25/02/2020,880,960,920
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,26/02/2020,850,950,900
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,28/02/2020,800,880,840
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,29/02/2020,800,900,850
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,01/03/2020,800,860,830
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,02/03/2020,800,860,830
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,03/03/2020,800,880,840
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,04/03/2020,750,850,800
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,06/03/2020,800,900,850
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,07/03/2020,800,900,850
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,08/03/2020,750,850,800
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,09/03/2020,750,850,800
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,13/03/2020,950,1050,1000
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,14/03/2020,900,1000,950
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,15/03/2020,880,960,920
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,16/03/2020,850,950,900
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,17/03/2020,900,1000,950
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,18/03/2020,900,1000,950
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,20/03/2020,940,1020,980
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,21/03/2020,850,950,900
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,24/03/2020,850,950,900
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,25/03/2020,1000,1100,1050
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,27/03/2020,1250,1350,1300
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,28/03/2020,950,1050,1000
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,29/03/2020,950,1050,1000
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,30/03/2020,950,1050,1000
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,31/03/2020,950,1050,1000
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,01/04/2020,850,950,900
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,03/04/2020,950,1050,1000
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,04/04/2020,900,980,940
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,05/04/2020,900,1000,950
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,06/04/2020,930,1030,980
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,07/04/2020,900,1000,950
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,08/04/2020,900,1000,950
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,10/04/2020,950,1050,1000
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,11/04/2020,950,1050,1000
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,12/04/2020,900,1000,950
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,13/04/2020,950,1050,1000
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,14/04/2020,950,1050,1000
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,15/04/2020,950,1050,1000
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,20/02/2020,600,800,700
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,22/02/2020,580,700,650
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,23/02/2020,550,750,650
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,24/02/2020,200,600,400
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,25/02/2020,300,600,400
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,26/02/2020,400,600,500
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,27/02/2020,500,700,600
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,28/02/2020,500,650,550
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,03/03/2020,600,700,650
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,04/03/2020,500,700,600
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,05/03/2020,550,800,650
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,06/03/2020,600,800,700
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,08/03/2020,450,650,550
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,09/03/2020,500,700,600
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,11/03/2020,500,700,600
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,12/03/2020,500,650,600
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,13/03/2020,500,600,550
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,14/03/2020,500,650,600
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,16/03/2020,500,600,550
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,17/03/2020,500,650,600
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,18/03/2020,500,650,600
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,19/03/2020,450,650,550
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,20/03/2020,500,900,700
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,21/03/2020,600,900,700
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,23/03/2020,500,900,700
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,25/03/2020,600,800,700
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,26/03/2020,600,800,700
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,28/03/2020,1200,1500,1300
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,29/03/2020,1100,1500,1250
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,30/03/2020,1000,1600,1200
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,03/04/2020,950,1300,1100
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,04/04/2020,900,1300,1100
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,05/04/2020,800,1000,900
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,06/04/2020,700,1100,900
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,07/04/2020,800,1000,900
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,08/04/2020,800,1000,900
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,09/04/2020,700,1100,900
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,10/04/2020,600,900,800
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,11/04/2020,500,700,600
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,12/04/2020,1000,1300,1100
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,13/04/2020,900,1100,1000
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,20/02/2020,450,550,500
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,21/02/2020,450,550,500
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,22/02/2020,400,500,450
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,23/02/2020,425,530,475
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,24/02/2020,400,475,425
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,25/02/2020,400,500,450
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,26/02/2020,350,450,400
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,27/02/2020,325,450,375
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,28/02/2020,400,500,450
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,29/02/2020,375,500,450
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,01/03/2020,325,425,360
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,02/03/2020,330,450,400
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,03/03/2020,325,450,375
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,04/03/2020,325,430,375
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,05/03/2020,325,450,375
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,06/03/2020,275,425,350
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,11/03/2020,150,250,200
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,12/03/2020,150,250,200
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,13/03/2020,150,250,200
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,14/03/2020,180,300,250
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,15/03/2020,175,350,225
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,16/03/2020,200,300,250
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,17/03/2020,180,300,250
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,18/03/2020,250,375,300
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,19/03/2020,200,300,250
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,20/03/2020,280,380,330
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,21/03/2020,250,350,300
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,22/03/2020,350,450,400
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,23/03/2020,400,500,450
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,24/03/2020,400,550,450
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,25/03/2020,500,600,550
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,26/03/2020,500,700,600
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,27/03/2020,450,550,500
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,28/03/2020,550,650,600
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,29/03/2020,600,750,670
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,30/03/2020,600,750,650
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,31/03/2020,450,550,500
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,01/04/2020,450,550,500
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,03/04/2020,450,570,500
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,04/04/2020,500,600,550
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,05/04/2020,550,650,600
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,06/04/2020,500,625,550
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,07/04/2020,500,600,550
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,09/04/2020,400,550,450
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,10/04/2020,400,500,450
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,13/04/2020,450,550,500
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,14/04/2020,400,500,450
+West Bengal,Coochbehar,Mekhliganj,Cauliflower,Other,15/04/2020,450,560,500
