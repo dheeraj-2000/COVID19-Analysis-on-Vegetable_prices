@@ -32,12 +32,14 @@ summary(potato_country[2:9])
 
 tomato_state <- read.csv("/home/dheeraj/my_projects/my_project_env/practice/COVID19-Analysis-on-Vegetable_prices/state/Tomato_2020_correction3_weeklyAvg.csv")
 tomato_state
-start(tomato_state)
-summary(tomato_state[2:16])
+tomato_state.ts <- as.ts(tomato_state)
+my_Object <- ts(tomato_state, start=1,frequency = 15)
+boxplot(my_Object~cycle(my_Object),xlab="weeks",ylab = "states_price",main = "Prices of tomato in the country considering 15 states")
 boxplot(tomato_state$Chattisgarh)
-outvalues = boxplot(tomato_state$Chattisgarh)$out
+outvalues = boxplot(my_Object~cycle(my_Object),xlab="weeks",ylab = "states_price",main = "Prices of tomato in the country considering 15 states")$out
 outvalues
-my_Object <- ts(tomato_state, start="w1" ,frequency = 15)
+summary(tomato_state[2:16])
+
 tomato_country <- read.csv("/home/dheeraj/my_projects/my_project_env/practice/COVID19-Analysis-on-Vegetable_prices/country/Tomato_2020_correction2_weeklyAvg.csv")
 colnames(tomato_country) <- c("states", "w1", "w2", "w3", "w4", "w5", "w6", "w7", "w8")
 summary(tomato_country[2:9])
