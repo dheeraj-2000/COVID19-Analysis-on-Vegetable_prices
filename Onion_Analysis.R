@@ -2,15 +2,14 @@ library(oddsratio)
 library(dplyr)
 library(ggplot2)
 library(Metrics)
-library(forecast)
 library(reshape)
-data1 <- read.csv("/home/dheeraj/my_projects/my_project_env/practice/COVID19-Analysis-on-Vegetable_prices/Onion/Onion_2020_correction2_weeklyAvg.csv")
-data1
-colnames(data1) <- c("states", "w1", "w2", "w3", "w4", "w5", "w6", "w7", "w8")
-data1
-glimpse(data1)
-sapply(data1, mean, na.rm=TRUE)
-View(summary(data1))
+#data1 <- read.csv("/home/dheeraj/my_projects/my_project_env/practice/COVID19-Analysis-on-Vegetable_prices/Onion/Onion_2020_correction2_weeklyAvg.csv")
+#data1
+#colnames(data1) <- c("states", "w1", "w2", "w3", "w4", "w5", "w6", "w7", "w8")
+#data1
+#glimpse(data1)
+#sapply(data1, mean, na.rm=TRUE)
+#View(summary(data1))
 
 ############################
 onion_state <- read.csv("/home/dheeraj/my_projects/my_project_env/practice/COVID19-Analysis-on-Vegetable_prices/state/Onion_2020_correction3_weeklyAvg.csv")
