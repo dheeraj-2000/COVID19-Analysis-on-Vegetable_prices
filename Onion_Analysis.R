@@ -14,24 +14,33 @@ View(summary(data1))
 
 ############################
 onion_state <- read.csv("/home/dheeraj/my_projects/my_project_env/practice/COVID19-Analysis-on-Vegetable_prices/state/Onion_2020_correction3_weeklyAvg.csv")
-summary(data1[2:16])
-boxplot(onion_state$Chattisgarh)
-outvalues = boxplot(onion_state$Chattisgarh)$out
+onion_state.ts <- as.ts(onion_state)
+my_Object <- ts(onion_state, start=1,frequency = 8)
+boxplot(my_Object~cycle(my_Object),xlab="weeks",ylab = "states_price",main = "Prices of onion in the country considering 15 states")
+outvalues = boxplot(my_Object~cycle(my_Object),xlab="weeks",ylab = "states_price",main = "Prices of onion in the country considering 15 states")$out
 outvalues
+summary(data1[2:16])
+
 onion_country <- read.csv("/home/dheeraj/my_projects/my_project_env/practice/COVID19-Analysis-on-Vegetable_prices/country/Onion_2020_correction2_weeklyAvg.csv")
-colnames(data1) <- c("states", "w1", "w2", "w3", "w4", "w5", "w6", "w7", "w8")
+colnames(onion_country) <- c("states", "w1", "w2", "w3", "w4", "w5", "w6", "w7", "w8")
+potato_country.ts <- as.ts(onion_country)
+my_Object <- ts(onion_country, start=1,frequency = 16)
+boxplot(my_Object~cycle(my_Object),xlab="states",ylab = "8 weeks_price",main = "Prices of onion in 15 states")
+outvalues = boxplot(my_Object~cycle(my_Object),xlab="states",ylab = "8 weeks_price",main = "Prices of onion in 15 states")$out
+outvalues
 summary(data1[2:9])
 
 
 potato_state <- read.csv("/home/dheeraj/my_projects/my_project_env/practice/COVID19-Analysis-on-Vegetable_prices/state/Potato_2020_correction3_weeklyAvg.csv")
 potato_state.ts <- as.ts(potato_state)
-my_Object <- ts(potato_state, start=1,frequency = 15)
-boxplot(my_Object~cycle(my_Object),xlab="weeks",ylab = "states_price",main = "Prices of tomato in the country considering 15 states")
-outvalues = boxplot(my_Object~cycle(my_Object),xlab="weeks",ylab = "states_price",main = "Prices of tomato in the country considering 15 states")$out
+my_Object <- ts(potato_state, start=1,frequency = 8)
+boxplot(my_Object~cycle(my_Object),xlab="weeks",ylab = "states_price",main = "Prices of potato in the country considering 15 states")
+outvalues = boxplot(my_Object~cycle(my_Object),xlab="weeks",ylab = "states_price",main = "Prices of potato in the country considering 15 states")$out
 outvalues
 summary(potato_state[2:16])
 
 potato_country <- read.csv("/home/dheeraj/my_projects/my_project_env/practice/COVID19-Analysis-on-Vegetable_prices/country/Potato_2020_correction2_weeklyAvg.csv")
+potato_country
 colnames(potato_country) <- c("states", "w1", "w2", "w3", "w4", "w5", "w6", "w7", "w8")
 potato_country.ts <- as.ts(potato_country)
 my_Object <- ts(potato_country, start=1,frequency = 16)
