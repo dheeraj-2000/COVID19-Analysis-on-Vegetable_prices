@@ -12,7 +12,7 @@ exp(coef(fit_glm))[-1]  # prints oddsratio separatley
 summary(fit_glm)
   
 
-como <- read.csv("/home/stark/Downloads/Dataset - Sheet4.csv")
+como <- read.csv("/home/dheeraj/my_projects/my_project_env/practice/COVID19-Analysis-on-Vegetable_prices/Dataset - Sheet4.csv")
 como
 df_como <- as.data.frame(como)
 df_como
