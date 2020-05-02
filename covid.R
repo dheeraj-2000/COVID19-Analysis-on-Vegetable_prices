@@ -1,7 +1,7 @@
 library(oddsratio)
 library(ggplot2)
 library(reshape)
-x <- read.csv("Downloads/Dataset - Sheet8 (2).csv")
+x <- read.csv("/home/dheeraj/my_projects/my_project_env/practice/COVID19-Analysis-on-Vegetable_prices/Dataset - Sheet8 (2).csv")
 data <- as.data.frame(x)
 
 fit_glm <- glm(data$Y ~ data$Onion_price + data$Tomato_price + data$Potato.Price + data$Cabbage_price + data$Bhindi_price + data$Cauliflower_price + data$Brinjal_Price, data = data, family = "binomial") 
