@@ -50,7 +50,7 @@ for(i in 1:7){
 Week <- seq(1,8,1)
 df <- data.frame(Week,final_data)
 df.m <- melt(df,id.vars = "Week")
-ggplot(data = df.m,aes(x = Week, y = value, group = variable, color = variable)) + geom_line(size = 1)
+ggplot(data = df.m,aes(x = Week, y = value, group = variable, color = variable)) + geom_line(size = 2)
 
 
 
