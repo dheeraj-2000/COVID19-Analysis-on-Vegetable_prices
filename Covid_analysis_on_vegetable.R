@@ -11,7 +11,7 @@ library(reshape)
 #sapply(data1, mean, na.rm=TRUE)
 #View(summary(data1))
 
-############################
+############################ Descriptive analysis on weekly data ###################3
 onion_state <- read.csv("/home/dheeraj/my_projects/my_project_env/practice/COVID19-Analysis-on-Vegetable_prices/state/Onion_2020_correction3_weeklyAvg.csv")
 onion_state.ts <- as.ts(onion_state)
 my_Object <- ts(onion_state, start=1,frequency = 8)
