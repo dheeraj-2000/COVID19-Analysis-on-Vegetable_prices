@@ -10,16 +10,26 @@ dataset <- read.csv("/home/dheeraj/my_projects/my_project_env/practice/COVID19-A
 dataset
 
 
+for(i in 2:69){
+y <- mean(df_como[,i])
+temp[,i]<- y
+}
+
 
 tomato <- dataset[13:23]  
 t_tomato <- t(as.matrix(tomato))
+t_tomato
 ts_data <- ts(t_tomato[,2])
+ts_data
 x <- data.frame(t_tomato[,2])
+x
 x <- x[-1,]
-View(x)
+x
 col <- c("Week","Price")
 Week <- seq(as.Date('2020-02-20'),as.Date('2020-04-29'),by = 7)
+Week
 final_data<-data.frame(matrix(ncol = 2, nrow = 10))
+View(final_data)
 colnames(final_data) <- col
 final_data[,2] <- x
 final_data[,1] <- Week
@@ -28,6 +38,7 @@ final_data[,1] <- Week
 ts_data <- xts(final_data[,-1], order.by=as.Date(final_data[,1], "%m/%d/%Y"))
 ts_data <- ts(as.numeric(ts_data))
 
+ts_data
 trn <- window(ts_data,end=c(8))
 tst <- window(ts_data,start=c(8))
 
@@ -48,5 +59,5 @@ hw.model.predict <- predict(hw.model,n.ahead = 2)
 hw.model.predict
 round(hw.model.predict)
 p_values = hw.model.predict
-
-ts.plot(ts_data,hw.model.predict,col = "navyblue",gpars= list(lty=c(1:2))) 
+p_values
+ts.plot(ts_data,hw.model.predict,col = "navyblue",gpars= list(lty=c(1:2), main = "Forecast from holt winter")) 

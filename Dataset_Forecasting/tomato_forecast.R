@@ -32,8 +32,8 @@ ts.plot(ts_data)
 
 start(ts_data)
 end(ts_data)
-trn <- window(ts_data,end=c(8))
-tst <- window(ts_data,start=c(8))
+trn <- window(ts_data,end=c(7))
+tst <- window(ts_data,start=c(7))
 
 arima.model <- auto.arima(ts_data,allowdrift = T)
 arima.model
@@ -46,6 +46,7 @@ holt <- holt(trn,h=4)
 plot(holt)
 lines(tst,lty = 3)
 
+
 hw.model <- HoltWinters(ts_data,gamma = FALSE)
 plot(hw.model,main="Original time series against the Fitted time series")
 hw.model.predict <- predict(hw.model,n.ahead = 2)
@@ -53,4 +54,4 @@ hw.model.predict
 round(hw.model.predict)
 p_values = hw.model.predict
 
-ts.plot(ts_data,hw.model.predict,col = "navyblue",gpars= list(lty=c(1:2))) 
+ts.plot(ts_data,hw.model.predict,col = "navyblue",gpars= list(lty=c(1:2) ,main = "Forecast from holt winter"))
