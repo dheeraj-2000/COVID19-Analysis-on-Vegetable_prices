@@ -35,15 +35,16 @@ library(dplyr)
 # 
 # #write.csv(final_data,file = "/media/stark/Games/Clg/Covid/final_forecasting_dataset.csv" ) 
 
-dataset = read.table("/media/stark/Games/Clg/Covid/final_forecasting_dataset.csv",sep = ",",header = TRUE)
+dataset = read.table("/home/dheeraj/my_projects/my_project_env/practice/COVID19-Analysis-on-Vegetable_prices/Forecasting/final_forecasting_dataset.csv",sep = ",",header = TRUE)
+dataset
 
-
-onion <- dataset[,2]  
+onion <- dataset[,9]  
+onion
 col <- c("Week","Price")
 Week <- seq(as.Date('2020-02-20'),as.Date('2020-04-29'),by = 7)
 final_data<-data.frame(matrix(ncol = 2, nrow = 10))
 colnames(final_data) <- col
-final_data[,2] <- x
+final_data[,2] <- onion
 final_data[,1] <- Week
 
 ts_data <- xts(final_data[,-1], order.by=as.Date(final_data[,1], "%m/%d/%Y"))
@@ -69,6 +70,5 @@ hw.model.predict <- predict(hw.model,n.ahead = 2)
 hw.model.predict
 round(hw.model.predict)
 p_values = hw.model.predict
-
-ts.plot(ts_data,hw.model.predict,col = "navyblue",gpars= list(lty=c(1:2))) 
+ts.plot(ts_data,hw.model.predict,col = "navyblue",gpars= list(lty=c(1:2), main = "Forecast from holt winter")) 
 
